@@ -1,0 +1,1028 @@
+average salary,job title,seniority,location,company name,size,type of ownership,python,rstudio,sql,aws,pytorch,sas,excel
+94500.0,data analyst,unspecified,Waterloo,Ontario Teachers Insurance Plan,501 to 1000 employees,Non-profit Organisation,0,0,1,0,0,0,1
+94500.0,data scientist,unspecified,Toronto,AIR MILES,501 to 1000 employees,Company - Private,1,0,1,1,0,0,0
+94500.0,data scientist,unspecified,Toronto,Rubikloud Technologies,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+94500.0,data scientist,unspecified,Toronto,Nielsen,10000+ employees,Company - Public,1,0,1,1,0,0,1
+94500.0,data analyst,unspecified,Edmonton,ATB Financial,5001 to 10000 employees,Company - Private,1,0,1,1,0,1,1
+94500.0,data scientist,unspecified,Vancouver,Asana,501 to 1000 employees,Company - Private,1,0,1,1,0,0,0
+94500.0,data scientist,unspecified,Tiverton,Bruce Power,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,0
+94500.0,data scientist,unspecified,Thorold,SomaDetect,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+94500.0,data scientist,unspecified,Toronto,Home Trust,501 to 1000 employees,Company - Public,1,0,0,1,0,0,1
+94500.0,data scientist,unspecified,Halifax,The Headhunters,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+94500.0,data scientist,junior,Ottawa,Office of the Auditor General of Canada,501 to 1000 employees,Government,1,0,0,1,0,1,0
+94500.0,data scientist,senior,Montreal,Hopper,501 to 1000 employees,Company - Private,0,0,1,0,0,1,0
+94500.0,data scientist,unspecified,Montreal,Zesty.ai,1 to 50 employees,Company - Private,0,0,1,0,1,1,0
+94500.0,data scientist,junior,Moncton,Fiddlehead,1 to 50 employees,Company - Public,1,0,0,1,0,0,0
+94500.0,data scientist,unspecified,Ottawa,Canadian Security Intelligence Service,1 to 50 employees,Government,1,0,0,1,0,0,0
+94500.0,data scientist,unspecified,Canada,Jungle Scout,51 to 200 employees,Company - Private,1,0,1,1,1,0,0
+94500.0,data scientist,unspecified,Calgary,NDAX INC,1 to 50 employees,Company - Public,1,0,0,1,0,0,0
+94500.0,data scientist,unspecified,Vancouver,Thrive Health,1 to 50 employees,Company - Private,0,0,0,0,0,0,1
+94500.0,data scientist,unspecified,Ottawa,Bank of Canada,1001 to 5000 employees,Government,1,0,1,1,0,0,0
+94500.0,data scientist,unspecified,Montreal,DRW Trading Group,1001 to 5000 employees,Company - Private,1,0,1,1,1,0,1
+94500.0,data scientist,unspecified,Toronto,Aviva,10000+ employees,Company - Public,1,0,0,1,0,0,0
+94500.0,data scientist,unspecified,Toronto,Precision Nutrition,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+94500.0,data scientist,unspecified,Toronto,RBC,10000+ employees,Company - Public,1,0,1,1,0,0,0
+94500.0,data scientist,unspecified,Ontario,Amazon,10000+ employees,Company - Public,1,0,1,1,0,0,1
+94500.0,data scientist,unspecified,Vancouver,Electronic Arts,5001 to 10000 employees,Company - Public,1,0,1,1,0,0,0
+94500.0,data scientist,unspecified,Victoria,Ingrooves,51 to 200 employees,Company - Private,1,0,1,1,1,0,1
+94500.0,data scientist,unspecified,Canada,Liquid Analytics,1 to 50 employees,Company - Private,1,0,0,1,0,0,0
+94500.0,data scientist,unspecified,Newmarket,York Region,1001 to 5000 employees,Government,1,0,1,1,0,0,1
+94500.0,data scientist,unspecified,Toronto,Assurance Careers,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+94500.0,data scientist,unspecified,Montreal,Delan,1 to 50 employees,Company - Private,1,0,0,1,0,0,0
+80500.0,data scientist,unspecified,Woodbridge,Fuze HR Solutions,51 to 200 employees,Company - Private,1,0,0,1,0,1,0
+80500.0,data scientist,unspecified,Toronto,Knowtions Research,Unknown,Company - Private,1,0,1,1,0,1,0
+80500.0,data scientist,unspecified,Montreal,Behaviour Interactive,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+80500.0,data scientist,unspecified,Vancouver,Aquatic Informatics,51 to 200 employees,Company - Private,1,0,0,1,1,0,1
+80500.0,data scientist,intern,Ottawa,Ciena,5001 to 10000 employees,Company - Public,1,0,1,1,0,0,0
+80500.0,data scientist,unspecified,Calgary,MobSquad,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+80500.0,machine learning engineer,unspecified,Montreal,Mila,51 to 200 employees,College / University,0,0,0,0,1,0,1
+80500.0,data scientist,unspecified,Vancouver,FORM,1 to 50 employees,Company - Private,1,0,0,1,0,0,0
+80500.0,data scientist,unspecified,Montreal,Eidos Montreal,201 to 500 employees,Company - Public,1,0,0,1,0,0,1
+80500.0,data scientist,unspecified,Waterloo,NCC Group,1001 to 5000 employees,Company - Public,1,0,0,1,0,0,0
+80500.0,data scientist,unspecified,Toronto,Clearbanc,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+80500.0,data scientist,unspecified,Boucherville,Danone,10000+ employees,Company - Public,1,0,1,1,0,0,1
+80500.0,data scientist,intern,Montreal,Guavus,201 to 500 employees,Subsidiary or Business Segment,1,0,0,1,0,0,1
+80500.0,data scientist,unspecified,Mississauga,Citi,10000+ employees,Company - Public,1,0,0,1,1,0,0
+80500.0,data scientist,unspecified,Toronto,Cerebri AI,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+80500.0,data scientist,unspecified,Mississauga,Citibank,5001 to 10000 employees,Subsidiary or Business Segment,1,0,0,1,1,0,0
+80500.0,data scientist,unspecified,Oakville,Geotab,1001 to 5000 employees,Company - Private,1,0,1,1,1,0,1
+80500.0,data analyst,senior,Montreal,Autodesk,5001 to 10000 employees,Company - Public,1,0,1,1,0,0,0
+80500.0,data scientist,unspecified,Ottawa,GBatteries,1 to 50 employees,Company - Private,1,0,0,1,1,0,0
+80500.0,data analyst,unspecified,Toronto,Drop,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+80500.0,data scientist,unspecified,Moncton,Fiddlehead,1 to 50 employees,Company - Public,1,0,0,1,0,0,0
+80500.0,data scientist,unspecified,114 Mile House,Reece,5001 to 10000 employees,Company - Public,1,0,1,1,0,0,0
+80500.0,data scientist,unspecified,Montreal,MindGeek,1001 to 5000 employees,Company - Private,1,0,1,1,1,0,0
+80500.0,data scientist,unspecified,Montreal,Nestlé,10000+ employees,Company - Public,0,0,1,0,0,0,1
+80500.0,data scientist,unspecified,Richmond Hill,Wysdom.AI,51 to 200 employees,Company - Private,1,0,1,1,1,0,1
+80500.0,data scientist,unspecified,Vancouver,KoBold Metals,Unknown,Company - Public,1,0,1,1,0,0,0
+80500.0,data scientist,unspecified,Toronto,NorthOne,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+80500.0,data scientist,unspecified,Toronto,"LotusFlare, Inc.",51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+80500.0,data scientist,unspecified,Montreal,Brain Finance,51 to 200 employees,Private Practice / Firm,1,0,0,1,0,0,0
+89000.0,data scientist,unspecified,Ottawa,CGI,10000+ employees,Company - Public,1,0,1,1,0,1,0
+89000.0,data scientist,unspecified,Welwyn,Roche,10000+ employees,Company - Public,0,0,0,0,0,0,1
+89000.0,data scientist,unspecified,Brampton,Joe Fresh,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,0,0
+89000.0,data scientist,senior,Brampton,Joe Fresh,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,0,0
+89000.0,data scientist,unspecified,Calgary,Replicon,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+89000.0,data engineer,unspecified,Montreal,Bombardier,10000+ employees,Company - Private,1,0,0,1,1,0,0
+89000.0,data scientist,unspecified,Ottawa,Accedian Networks,201 to 500 employees,Company - Private,1,0,0,1,0,1,1
+89000.0,data scientist,unspecified,Markham,Scarsin,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+89000.0,data scientist,unspecified,Ottawa,SNC-Lavalin,10000+ employees,Company - Public,0,0,1,0,0,0,1
+89000.0,machine learning engineer,unspecified,Montreal,MavTek,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+89000.0,data scientist,unspecified,Montreal,Unity Technologies,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,0
+89000.0,data analyst,unspecified,Toronto,Big Viking Games,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+89000.0,data scientist,unspecified,Toronto,MobileComm Professionals,501 to 1000 employees,Company - Private,1,0,1,1,1,1,0
+89000.0,data scientist,senior,Vancouver,Visier Solutions Inc.,201 to 500 employees,Company - Private,1,0,0,1,0,0,1
+89000.0,data scientist,unspecified,Canada,Awakedata,Unknown,Company - Private,1,0,1,1,0,0,1
+89000.0,data scientist,unspecified,Toronto,IFG Project Resourcing,501 to 1000 employees,Subsidiary or Business Segment,1,0,1,1,0,0,0
+89000.0,data engineer,unspecified,Toronto,Jarvis,51 to 200 employees,Company - Private,1,0,0,1,0,0,0
+89000.0,data scientist,unspecified,Brampton,Loblaw Companies Limited,10000+ employees,Company - Public,1,0,1,1,0,0,1
+89000.0,data scientist,senior,Ottawa,Fujitsu,10000+ employees,Company - Public,1,0,1,1,0,0,0
+89000.0,data scientist,unspecified,Waterloo,Equitable Life Insurance Company of Canada,201 to 500 employees,Company - Private,1,0,1,1,0,0,1
+89000.0,data scientist,unspecified,Saint-Laurent,CAE Inc.,10000+ employees,Company - Public,1,0,0,1,0,0,1
+89000.0,machine learning engineer,unspecified,Vancouver,AbCellera Biologics,51 to 200 employees,Company - Private,1,0,0,1,1,0,0
+89000.0,data analyst,unspecified,Toronto,Briq,1 to 50 employees,Company - Private,0,0,1,0,0,0,0
+89000.0,data analyst,unspecified,Vancouver,University of British Columbia,10000+ employees,College / University,0,0,0,0,0,0,1
+64000.0,data analyst,unspecified,Ottawa,Natural Partners Fullscript,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+64000.0,data scientist,unspecified,Montreal,Services Conseils IntelliSoft,Unknown,Company - Private,1,0,0,1,0,0,1
+64000.0,data scientist,unspecified,Toronto,Eagle Professional Resources,51 to 200 employees,Company - Private,1,0,0,1,1,1,0
+64000.0,data scientist,unspecified,Toronto,Blackhawk Network,1001 to 5000 employees,Company - Private,1,0,0,1,1,0,1
+64000.0,data analyst,unspecified,Halifax,Proposify,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+64000.0,data scientist,unspecified,Montreal,Square Enix Co.,1001 to 5000 employees,Company - Public,1,0,0,1,0,0,1
+64000.0,data scientist,intern,Toronto,Clearbanc,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+64000.0,machine learning engineer,unspecified,Montreal,Amazon,10000+ employees,Company - Public,1,0,0,1,0,0,1
+64000.0,data analyst,unspecified,Moncton,Syniti,501 to 1000 employees,Company - Private,0,0,1,0,0,1,1
+64000.0,data scientist,senior,Mississauga,Savormetrics,1 to 50 employees,Company - Private,0,0,0,0,0,0,0
+64000.0,data scientist,senior,Quebec,Intact,10000+ employees,Company - Public,1,0,0,1,0,0,1
+64000.0,data scientist,senior,Montreal,Intact,10000+ employees,Company - Public,1,0,0,1,0,0,0
+64000.0,research scientist,unspecified,Dartmouth,Fisheries and Oceans Canada,1001 to 5000 employees,Government,0,0,1,0,0,0,0
+64000.0,data scientist,unspecified,Vancouver,Amazon,10000+ employees,Company - Public,1,0,0,1,0,0,0
+64000.0,research scientist,unspecified,Montreal,Facebook,10000+ employees,Company - Public,1,0,0,1,0,0,0
+64000.0,data scientist,unspecified,Toronto,MaxSys,1 to 50 employees,Contract,0,0,0,0,0,0,0
+64000.0,statistician,senior,Welwyn,Roche,10000+ employees,Company - Public,0,0,0,0,0,1,1
+64000.0,data scientist,senior,Toronto,RBC,10000+ employees,Company - Public,1,0,0,1,0,0,0
+64000.0,data analyst,unspecified,Oakville,Geotab,1001 to 5000 employees,Company - Private,1,0,1,1,1,0,0
+64000.0,data analyst,unspecified,Victoria,Ingrooves,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+64000.0,data analyst,unspecified,Mississauga,Peel District School Board,10000+ employees,School / School District,1,0,0,1,0,0,1
+64000.0,data scientist,unspecified,Vancouver,Teck Resources Limited,5001 to 10000 employees,Company - Public,0,0,0,0,0,0,1
+64000.0,data analyst,unspecified,Laval,Linen Chest,501 to 1000 employees,Company - Private,0,0,0,0,0,0,1
+64000.0,data scientist,unspecified,Welwyn,Roche,10000+ employees,Company - Public,0,0,0,0,0,0,1
+64000.0,data analyst,unspecified,Sault Ste. Marie,Algoma Public Health,1 to 50 employees,Government,0,0,0,0,0,0,1
+64500.0,data analyst,unspecified,Edmonton,Systematix,501 to 1000 employees,Company - Private,0,0,0,0,0,0,0
+64500.0,data scientist,senior,Brampton,Loblaw Companies Limited,10000+ employees,Company - Public,1,0,1,1,0,0,0
+64500.0,data scientist,unspecified,Toronto,TD Bank,10000+ employees,Company - Public,0,0,0,0,0,0,0
+64500.0,data scientist,unspecified,Montreal,MegaZebra GmbH,1 to 50 employees,Other Organisation,0,1,1,0,0,0,0
+64500.0,data analyst,unspecified,Mississauga,ITAC,1 to 50 employees,Non-profit Organisation,0,0,0,0,0,0,1
+64500.0,data analyst,unspecified,Toronto,College of Physicians and Surgeons of Ontario,201 to 500 employees,College / University,1,0,1,1,0,1,0
+64500.0,data scientist,senior,Toronto,Fusion Analytics,1 to 50 employees,Company - Private,1,0,0,1,0,0,1
+64500.0,data scientist,senior,Welwyn,Roche,10000+ employees,Company - Public,1,0,1,1,0,0,1
+64500.0,data analyst,unspecified,Regina,GasBuddy,51 to 200 employees,Company - Private,1,0,1,1,0,1,1
+64500.0,data scientist,unspecified,Toronto,Paytm Labs,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+64500.0,research scientist,unspecified,Toronto,Altus Assessments,51 to 200 employees,Company - Private,0,0,0,0,0,0,0
+64500.0,data scientist,senior,Brampton,Joe Fresh,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,0,0
+64500.0,data scientist,unspecified,Hamilton,McMaster University,5001 to 10000 employees,College / University,0,0,0,0,0,0,1
+64500.0,machine learning engineer,unspecified,Montreal,Scribendi,201 to 500 employees,Company - Private,1,0,0,1,1,0,0
+64500.0,data scientist,unspecified,Toronto,TD Bank,10000+ employees,Company - Public,0,0,0,0,0,0,0
+64500.0,data scientist,senior,Montreal,ESI Technologies,51 to 200 employees,Company - Private,1,0,1,1,1,0,1
+64500.0,data analyst,unspecified,Halifax,AXIS Capital,1001 to 5000 employees,Company - Public,0,0,1,0,0,0,1
+64500.0,data analyst,unspecified,Pembroke,Family & Children's Services of Renfrew County,Unknown,Non-profit Organisation,0,0,0,0,0,0,0
+64500.0,data scientist,senior,Saskatoon,Vendasta Technologies,201 to 500 employees,Company - Private,0,0,1,0,0,0,0
+64500.0,research scientist,unspecified,Markham,"Huawei Technologies Canada Co., Ltd.",10000+ employees,Company - Private,1,0,0,1,0,0,0
+64500.0,data scientist,unspecified,Stouffville,Scentroid,1 to 50 employees,Company - Private,1,0,0,1,0,0,0
+64500.0,data engineer,unspecified,Toronto,Capco,5001 to 10000 employees,Company - Public,0,0,1,0,0,0,1
+64500.0,data scientist,senior,Montreal,DRW,1001 to 5000 employees,Company - Private,1,0,1,1,1,0,1
+64500.0,data engineer,unspecified,Toronto,Amazon,10000+ employees,Company - Public,1,0,1,1,0,0,1
+123000.0,data analyst,unspecified,Montreal,Mino Games,1 to 50 employees,Company - Public,1,0,1,1,0,0,1
+123000.0,manager analytics,unspecified,Mississauga,Conagra Brands,10000+ employees,Company - Public,0,0,0,0,0,0,1
+123000.0,research scientist,unspecified,Markham,"Huawei Technologies Canada Co., Ltd.",10000+ employees,Company - Private,1,0,0,1,0,0,0
+123000.0,data analyst,unspecified,Toronto,Jam City,501 to 1000 employees,Company - Private,0,0,1,0,0,0,0
+123000.0,data scientist,unspecified,Montreal,Alstom Transportation,10000+ employees,Subsidiary or Business Segment,1,0,1,1,0,0,0
+123000.0,data analyst,unspecified,Mississauga,NCRI,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+123000.0,data engineer,unspecified,Ottawa,Ceridian,1001 to 5000 employees,Company - Public,1,0,1,1,0,0,0
+123000.0,data scientist,senior,Toronto,Fusion Analytics,1 to 50 employees,Company - Private,1,0,0,1,0,0,1
+123000.0,data analyst,unspecified,Toronto,Family Service Toronto,51 to 200 employees,Non-profit Organisation,0,0,1,0,0,0,1
+123000.0,data scientist,unspecified,Vancouver,IT IQ TECH RECRUITERS LTD,1 to 50 employees,Company - Private,0,0,0,0,0,0,0
+123000.0,data scientist,senior,Toronto,Tonal,51 to 200 employees,Company - Private,1,0,0,1,0,0,0
+123000.0,data scientist,senior,Toronto,Aviva,10000+ employees,Company - Public,1,0,0,1,0,0,0
+123000.0,data scientist,unspecified,Toronto,ASSURANCE,501 to 1000 employees,Company - Private,1,0,1,1,0,0,1
+123000.0,data scientist,senior,Ottawa,SurveyMonkey,1001 to 5000 employees,Company - Public,1,0,0,1,1,0,1
+123000.0,data analyst,unspecified,Toronto,Lucova,1 to 50 employees,Company - Public,0,0,1,0,0,0,1
+123000.0,data analyst,unspecified,Etobicoke,Moneris Solutions Corporation,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,0
+123000.0,data scientist,senior,Victoria,BC IMC,Unknown,Company - Private,1,0,1,1,0,1,1
+123000.0,manager analytics,unspecified,Mississauga,IPSEN,5001 to 10000 employees,Company - Public,0,0,0,0,0,0,1
+123000.0,data engineer,unspecified,Toronto,OANDA Corporation,201 to 500 employees,Company - Private,1,0,1,1,0,0,1
+123000.0,machine learning engineer,unspecified,Toronto,Paytm,51 to 200 employees,Company - Private,1,0,0,1,1,0,0
+123000.0,data analyst,unspecified,Halifax,AXIS Insurance,51 to 200 employees,Company - Private,0,0,1,0,0,0,1
+123000.0,data analyst,unspecified,Vancouver,Flowmotion Entertainment,1 to 50 employees,Company - Private,0,1,0,0,0,0,0
+123000.0,data engineer,unspecified,Vancouver,Hyper Hippo,1 to 50 employees,Company - Private,0,0,0,0,0,0,0
+123000.0,machine learning engineer,unspecified,Toronto,LG Electronics,10000+ employees,Company - Public,1,0,0,1,0,0,0
+123000.0,machine learning engineer,unspecified,Toronto,Rules Cube,51 to 200 employees,Contract,1,0,0,1,1,0,0
+123000.0,data scientist,senior,Welwyn,Roche,10000+ employees,Company - Public,0,0,0,0,0,0,1
+123000.0,data analyst,unspecified,Burnaby,PHSA,10000+ employees,Non-profit Organisation,0,0,0,0,0,1,1
+52000.0,data analyst,unspecified,Toronto,theScore,201 to 500 employees,Company - Public,1,0,1,1,0,0,1
+52000.0,data scientist,unspecified,Montreal,Eidos Montréal,201 to 500 employees,Company - Public,1,0,0,1,0,0,1
+52000.0,data scientist,senior,Toronto,Atmosphere,1 to 50 employees,Company - Public,1,0,1,1,0,0,0
+52000.0,machine learning engineer,unspecified,Toronto,Autodesk,5001 to 10000 employees,Company - Public,1,0,0,1,1,0,1
+52000.0,data analyst,unspecified,Toronto,Veeva Systems,1001 to 5000 employees,Company - Public,0,0,0,0,0,0,1
+52000.0,research scientist,unspecified,Montreal,Element AI,201 to 500 employees,Company - Private,0,0,0,0,0,0,1
+52000.0,machine learning engineer,unspecified,Kitchener,EMAGIN,1 to 50 employees,Company - Private,1,0,1,1,1,0,0
+52000.0,data engineer,unspecified,Montreal,MarketMuse,1 to 50 employees,Company - Private,1,0,0,1,1,0,0
+52000.0,data scientist,senior,Toronto,Rubikloud Technologies,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+52000.0,data scientist,senior,Montreal,SSENSE,501 to 1000 employees,Company - Private,1,0,1,1,0,1,1
+52000.0,machine learning engineer,unspecified,Toronto,Amazon,10000+ employees,Company - Public,1,0,0,1,0,0,0
+52000.0,data scientist,senior,Montreal,Unity Technologies,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,0
+52000.0,data engineer,unspecified,Montreal,Coveo,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+52000.0,data engineer,unspecified,Toronto,Arrow Digital,51 to 200 employees,Company - Private,1,1,1,1,0,0,1
+52000.0,data scientist,senior,Woodbridge,407 ETR,201 to 500 employees,Company - Private,1,0,0,1,0,1,0
+52000.0,data scientist,senior,Montreal,SSENSE,501 to 1000 employees,Company - Private,1,0,1,1,0,0,1
+52000.0,data analyst,unspecified,Toronto,Tucows,501 to 1000 employees,Company - Public,1,0,1,1,0,0,1
+52000.0,data analyst,unspecified,Montreal,Desjardins,10000+ employees,Company - Private,0,0,0,0,0,0,0
+52000.0,machine learning engineer,unspecified,Vancouver,Prenuvo Inc,1 to 50 employees,Company - Private,0,0,0,0,0,0,0
+52000.0,data engineer,unspecified,Ottawa,Veem,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+52000.0,data scientist,senior,Woodbridge,Fuze HR Solutions,51 to 200 employees,Company - Private,1,0,0,1,0,1,0
+52000.0,data analyst,unspecified,Mississauga,AXIS Database Marketing,1 to 50 employees,Company - Private,0,0,1,0,0,0,1
+52000.0,data scientist,senior,Vancouver,Unity Technologies,1001 to 5000 employees,Company - Private,1,0,0,1,1,0,0
+52000.0,data scientist,unspecified,Toronto,BMO Financial Group,10000+ employees,Company - Public,1,0,1,1,0,1,0
+52000.0,machine learning engineer,unspecified,Richmond Hill,Visual Defence Inc,51 to 200 employees,Company - Private,1,0,0,1,0,0,1
+102500.0,business intelligent analyst,unspecified,Ottawa,Export Development Canada,1001 to 5000 employees,Other Organisation,0,0,0,0,0,0,1
+102500.0,machine learning engineer,unspecified,Richmond,PressReader,51 to 200 employees,Company - Private,1,0,0,1,1,0,0
+102500.0,data engineer,unspecified,Dorval,Bombardier,10000+ employees,Company - Private,1,0,0,1,1,0,0
+102500.0,data engineer,unspecified,Toronto,Jarvis,51 to 200 employees,Company - Private,1,0,0,1,0,0,0
+102500.0,data analyst,senior,Brampton,Joe Fresh,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,1,1
+102500.0,business intelligent analyst,unspecified,Montreal,Unity Technologies,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,1
+102500.0,data analyst,unspecified,Vancouver,Thinkingbox,1 to 50 employees,Company - Private,0,0,1,0,0,0,0
+102500.0,research scientist,unspecified,Montreal,Dialogue,201 to 500 employees,Company - Private,1,0,0,1,0,0,0
+102500.0,data scientist,senior,Welwyn,Roche,10000+ employees,Company - Public,0,0,0,0,0,0,1
+102500.0,data scientist,senior,Toronto,Manulife,10000+ employees,Company - Public,1,0,1,1,0,1,0
+102500.0,manager analytics,unspecified,Ottawa,Telesat Holding,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,0,1
+102500.0,data engineer,unspecified,Toronto,Goodfood Market Corp.,51 to 200 employees,Company - Public,1,0,1,1,0,0,1
+102500.0,data analyst,unspecified,Mississauga,OSL Retail Services,5001 to 10000 employees,Company - Private,0,0,1,0,0,1,1
+102500.0,data engineer,unspecified,Ottawa,Telesat Holding,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,0,1
+102500.0,data engineer,unspecified,Montreal,Paytm Labs,51 to 200 employees,Company - Private,1,0,0,1,0,0,0
+102500.0,data engineer,unspecified,Toronto,Scotiabank,10000+ employees,Company - Public,1,0,1,1,0,0,0
+102500.0,data analyst,unspecified,Surrey,Fraser Health,10000+ employees,Hospital,0,0,0,0,0,1,1
+102500.0,data analyst,unspecified,Toronto,BMO Financial Group,10000+ employees,Company - Public,1,0,1,1,0,1,0
+102500.0,data engineer,unspecified,Toronto,SADA,51 to 200 employees,Company - Private,1,0,1,1,0,1,0
+102500.0,data engineer,unspecified,Toronto,Indoc Research,1 to 50 employees,Non-profit Organisation,1,0,1,1,0,0,0
+102500.0,data engineer,unspecified,Montreal,Bell Canada,10000+ employees,Company - Public,0,0,1,0,0,1,1
+102500.0,statistician,unspecified,Mississauga,Roche,10000+ employees,Company - Public,0,0,0,0,0,0,1
+102500.0,machine learning engineer,unspecified,Montreal,Roche,1 to 50 employees,Company - Private,1,0,0,1,1,0,0
+102500.0,data engineer,unspecified,Mississauga,IMAX Corporation,501 to 1000 employees,Company - Public,1,0,1,1,0,0,0
+102500.0,data scientist,intern,Quebec,Intact,10000+ employees,Company - Public,1,0,0,1,0,0,0
+102500.0,data scientist,senior,Brampton,Joe Fresh,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,0,0
+96000.0,data scientist,senior,Toronto,Rubikloud Technologies,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+96000.0,data scientist,unspecified,Vancouver,"Connor, Clark & Lunn Financial Group",201 to 500 employees,Company - Private,0,0,0,0,0,0,0
+96000.0,data scientist,unspecified,Vancouver,NumerixS Quant,Unknown,Company - Private,1,0,0,1,0,0,1
+96000.0,machine learning engineer,unspecified,Toronto,Amazon,10000+ employees,Company - Public,1,0,0,1,0,0,0
+96000.0,data scientist,senior,Montreal,Unity Technologies,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,0
+96000.0,data engineer,unspecified,Waterloo,RideCo,Unknown,Company - Public,1,0,1,1,0,0,1
+96000.0,data analyst,unspecified,Richmond,PressReader,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+96000.0,data engineer,unspecified,Toronto,Arrow Digital,51 to 200 employees,Company - Private,1,1,1,1,0,0,1
+96000.0,research scientist,unspecified,Richmond,Applied Biological Materials Inc,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+96000.0,data scientist,senior,Montreal,SSENSE,501 to 1000 employees,Company - Private,1,0,1,1,0,0,1
+96000.0,data engineer,unspecified,Montreal,Coveo,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+96000.0,data scientist,senior,Woodbridge,407 ETR,201 to 500 employees,Company - Private,1,0,0,1,0,1,0
+96000.0,business intelligent analyst,unspecified,Montreal,Bell Canada,10000+ employees,Company - Public,1,0,1,1,0,1,1
+96000.0,data analyst,unspecified,Montreal,Banque Nationale du Canada,10000+ employees,Company - Public,0,0,0,0,0,0,0
+96000.0,research scientist,unspecified,Chalk River,Canadian Nuclear Laboratories,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,0
+96000.0,data analyst,unspecified,Montreal,Desjardins,10000+ employees,Company - Private,0,0,0,0,0,0,0
+96000.0,data engineer,unspecified,Ottawa,Veem,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+96000.0,data analyst,unspecified,Toronto,Tucows,501 to 1000 employees,Company - Public,1,0,1,1,0,0,1
+96000.0,data scientist,senior,Woodbridge,Fuze HR Solutions,51 to 200 employees,Company - Private,1,0,0,1,0,1,0
+96000.0,machine learning engineer,unspecified,Vancouver,Prenuvo Inc,1 to 50 employees,Company - Private,0,0,0,0,0,0,0
+96000.0,data analyst,unspecified,Mississauga,AXIS Database Marketing,1 to 50 employees,Company - Private,0,0,1,0,0,0,1
+96000.0,data scientist,unspecified,Toronto,BMO Financial Group,10000+ employees,Company - Public,1,0,1,1,0,1,0
+96000.0,data scientist,senior,Vancouver,Unity Technologies,1001 to 5000 employees,Company - Private,1,0,0,1,1,0,0
+96000.0,machine learning engineer,unspecified,Richmond Hill,Visual Defence Inc,51 to 200 employees,Company - Private,1,0,0,1,0,0,1
+96000.0,research scientist,unspecified,Montreal,Facebook,10000+ employees,Company - Public,1,0,0,1,0,0,0
+96000.0,business intelligent analyst,unspecified,Montreal,Tecsys,501 to 1000 employees,Company - Public,0,0,1,0,0,0,1
+96000.0,business intelligent analyst,unspecified,Ottawa,Export Development Canada,1001 to 5000 employees,Other Organisation,0,0,0,0,0,0,1
+96000.0,machine learning engineer,unspecified,Richmond,PressReader,51 to 200 employees,Company - Private,1,0,0,1,1,0,0
+96000.0,data analyst,unspecified,Toronto,"Rand Worldwide, Inc",201 to 500 employees,Company - Public,0,0,0,0,0,0,0
+96000.0,data analyst,unspecified,Mississauga,Citi,10000+ employees,Company - Public,1,0,1,1,0,0,1
+96000.0,data engineer,unspecified,Dorval,Bombardier,10000+ employees,Company - Private,1,0,0,1,1,0,0
+96000.0,business intelligent analyst,unspecified,Mississauga,World Vision Canada,201 to 500 employees,Non-profit Organisation,0,0,1,0,0,1,0
+96000.0,data engineer,unspecified,Toronto,Jarvis,51 to 200 employees,Company - Private,1,0,0,1,0,0,0
+96000.0,business intelligent analyst,unspecified,Dieppe,Irving Consumer Products,10000+ employees,Company - Private,0,0,0,0,0,0,0
+96000.0,business intelligent analyst,unspecified,Montreal,Unity Technologies,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,1
+96000.0,data analyst,senior,Brampton,Joe Fresh,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,1,1
+96000.0,data analyst,intern,Halifax,RBC,10000+ employees,Company - Public,0,0,1,0,0,0,1
+96000.0,data analyst,unspecified,Vancouver,CLOUSEAU ANALYTICS,Unknown,Company - Private,0,0,1,0,0,1,1
+96000.0,data analyst,unspecified,Vancouver,Thinkingbox,1 to 50 employees,Company - Private,0,0,1,0,0,0,0
+96000.0,research scientist,unspecified,Montreal,Dialogue,201 to 500 employees,Company - Private,1,0,0,1,0,0,0
+96000.0,research scientist,unspecified,Vancouver,Facebook,10000+ employees,Company - Public,1,0,0,1,0,0,0
+96000.0,data engineer,unspecified,Montreal,Breather,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+96000.0,data analyst,senior,Mississauga,Citi,10000+ employees,Company - Public,1,0,1,1,0,0,1
+96000.0,data engineer,unspecified,Vancouver,NxT Level,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+96000.0,data analyst,unspecified,Toronto,"Beutel, Goodman & Company Ltd.",Unknown,Private Practice / Firm,0,0,1,0,0,0,1
+96000.0,data scientist,senior,Welwyn,Roche,10000+ employees,Company - Public,0,0,0,0,0,0,1
+96000.0,data scientist,senior,Toronto,Manulife,10000+ employees,Company - Public,1,0,1,1,0,1,0
+57500.0,data analyst,unspecified,Burnaby,Metro Vancouver,1001 to 5000 employees,Government,0,0,1,0,0,0,0
+57500.0,manager analytics,unspecified,Ottawa,Telesat Holding,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,0,1
+57500.0,business intelligent analyst,unspecified,Ottawa,BGIS,5001 to 10000 employees,Company - Public,0,0,0,0,0,0,1
+57500.0,machine learning engineer,unspecified,Ottawa,Nokia,10000+ employees,Company - Public,1,0,0,1,1,0,0
+57500.0,data analyst,unspecified,Toronto,Maxima Consulting,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+57500.0,data engineer,unspecified,Toronto,Goodfood Market Corp.,51 to 200 employees,Company - Public,1,0,1,1,0,0,1
+57500.0,data engineer,unspecified,Ottawa,Telesat Holding,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,0,1
+57500.0,data analyst,unspecified,Mississauga,OSL Retail Services,5001 to 10000 employees,Company - Private,0,0,1,0,0,1,1
+57500.0,business intelligent analyst,unspecified,Cornwall,Cornwall Community Hospital,501 to 1000 employees,Hospital,1,0,1,1,0,0,0
+57500.0,data analyst,unspecified,Regina,CCS Professional Services,1 to 50 employees,Company - Public,0,0,0,0,0,0,0
+57500.0,data scientist,unspecified,Toronto,Paytm,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+57500.0,data engineer,unspecified,Montreal,Paytm Labs,51 to 200 employees,Company - Private,1,0,0,1,0,0,0
+57500.0,data engineer,unspecified,Toronto,Scotiabank,10000+ employees,Company - Public,1,0,1,1,0,0,0
+57500.0,data scientist,unspecified,Montreal,Sia Partners,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,0
+57500.0,data scientist,intern,Calgary,Intact,10000+ employees,Company - Public,1,0,0,1,0,0,0
+57500.0,data analyst,unspecified,Vancouver,Provincial Health Services Authority,10000+ employees,Non-profit Organisation,0,0,0,0,0,1,1
+57500.0,research scientist,unspecified,Vancouver,AbCellera Biologics,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+57500.0,data scientist,senior,Vancouver,Resilient Management,1 to 50 employees,Company - Private,1,0,1,1,0,0,0
+57500.0,data analyst,unspecified,Mississauga,NCRI,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+57500.0,data analyst,unspecified,Surrey,Fraser Health,10000+ employees,Hospital,0,0,0,0,0,1,1
+57500.0,data analyst,unspecified,Toronto,BMO Financial Group,10000+ employees,Company - Public,1,0,1,1,0,1,0
+57500.0,data engineer,unspecified,Toronto,SADA,51 to 200 employees,Company - Private,1,0,1,1,0,1,0
+57500.0,data engineer,unspecified,Toronto,Indoc Research,1 to 50 employees,Non-profit Organisation,1,0,1,1,0,0,0
+57500.0,data engineer,unspecified,Ontario,Johnson,51 to 200 employees,Company - Private,0,0,1,0,0,1,0
+57500.0,data engineer,unspecified,Toronto,Novantas,201 to 500 employees,Company - Private,0,0,1,0,0,0,1
+66500.0,data engineer,unspecified,Montreal,Bell Canada,10000+ employees,Company - Public,0,0,1,0,0,1,1
+66500.0,data analyst,intern,Montreal,Square Enix Co.,1001 to 5000 employees,Company - Public,1,0,1,1,0,0,1
+66500.0,data engineer,unspecified,Kitchener,EMAGIN,1 to 50 employees,Company - Private,1,0,1,1,1,0,0
+66500.0,data engineer,unspecified,Toronto,TalentVault,1 to 50 employees,Company - Private,0,0,1,0,0,0,0
+66500.0,statistician,unspecified,Mississauga,Roche,10000+ employees,Company - Public,0,0,0,0,0,0,1
+66500.0,machine learning engineer,unspecified,Montreal,TandemLaunch,1 to 50 employees,Company - Private,1,0,0,1,1,0,0
+66500.0,research scientist,unspecified,Chalk River,Canadian Nuclear Laboratories,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,0
+66500.0,data analyst,unspecified,Toronto,Dawn InfoTek Inc.,51 to 200 employees,Company - Private,0,0,1,0,0,0,1
+66500.0,data engineer,unspecified,Ontario,RSA,1 to 50 employees,Company - Private,0,0,1,0,0,1,0
+66500.0,data engineer,unspecified,Calgary,MobSquad,1 to 50 employees,Company - Private,1,0,1,1,0,0,0
+66500.0,data engineer,unspecified,Mississauga,IMAX Corporation,501 to 1000 employees,Company - Public,1,0,1,1,0,0,0
+66500.0,research scientist,senior,Ontario,Lock Search Group,51 to 200 employees,Company - Private,0,0,0,0,0,0,0
+66500.0,data scientist,intern,Quebec,Intact,10000+ employees,Company - Public,1,0,0,1,0,0,0
+66500.0,data engineer,unspecified,Montreal,Wavo,1 to 50 employees,Company - Private,1,0,1,1,0,0,0
+66500.0,data analyst,senior,Toronto,Cover,51 to 200 employees,Self-employed,1,0,1,1,0,0,0
+66500.0,data scientist,senior,Brampton,Joe Fresh,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,0,0
+66500.0,data scientist,senior,Brampton,Joe Fresh,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,0,1
+66500.0,data engineer,unspecified,Vancouver,Meda Agency Inc.,Unknown,Company - Private,1,0,1,1,0,0,0
+66500.0,data engineer,senior,Vancouver,Apple,10000+ employees,Company - Public,1,0,1,1,0,0,0
+66500.0,data engineer,unspecified,Montreal,Uni3T,1 to 50 employees,Company - Private,1,0,1,1,0,0,0
+66500.0,research scientist,unspecified,Laval,CITOXLAB N.A. INC.,201 to 500 employees,Company - Private,0,0,0,0,0,0,0
+51500.0,data analyst,unspecified,Vancouver,IT IQ TECH RECRUITERS LTD,1 to 50 employees,Company - Private,0,0,1,0,0,0,1
+51500.0,data analyst,unspecified,Vancouver,MacroHealth,1 to 50 employees,Company - Private,0,0,1,0,0,0,1
+51500.0,data analyst,unspecified,Vancouver,IT IQ TECH RECRUITERS LTD,1 to 50 employees,Company - Private,0,0,0,0,0,1,1
+51500.0,data engineer,unspecified,Toronto,Hitachi Solutions,10000+ employees,Subsidiary or Business Segment,1,0,1,1,0,0,0
+51500.0,data scientist,senior,Brampton,Joe Fresh,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,0,1
+51500.0,machine learning engineer,unspecified,Burnaby,Amgen,10000+ employees,Company - Public,1,0,0,1,1,0,0
+51500.0,data engineer,unspecified,Ontario,Johnson Insurance,501 to 1000 employees,Company - Private,0,0,1,0,0,1,0
+51500.0,data scientist,senior,Brampton,Loblaw,10000+ employees,Company - Public,1,0,1,1,0,0,0
+51500.0,data engineer,unspecified,Laval,Bridge Eleven,1 to 50 employees,Company - Private,1,0,1,1,0,0,0
+51500.0,data engineer,unspecified,Halifax,ResMed,5001 to 10000 employees,Company - Public,1,0,1,1,0,0,1
+51500.0,data scientist,senior,Toronto,GALE Partners,201 to 500 employees,Company - Private,1,0,1,1,1,0,1
+51500.0,data analyst,unspecified,Toronto,Sunnybrook Health Sciences Centre,5001 to 10000 employees,Hospital,0,0,0,0,0,0,1
+51500.0,data analyst,unspecified,Toronto,Sunnybrook Health Sciences Centre,5001 to 10000 employees,Hospital,0,0,0,0,0,0,1
+51500.0,business intelligent analyst,unspecified,Calgary,Pacific Western Transportation Ltd,1001 to 5000 employees,Company - Private,0,0,1,0,0,0,1
+51500.0,machine learning engineer,unspecified,Montreal,Wise Systems,1 to 50 employees,Company - Private,1,0,1,1,0,0,0
+51500.0,data scientist,senior,Welwyn,Roche,10000+ employees,Company - Public,0,0,0,0,0,0,1
+51500.0,manager analytics,unspecified,Toronto,Brand Loyalty Group,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+51500.0,data engineer,unspecified,Vancouver,Create Music Group Canada,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+51500.0,data engineer,unspecified,Canada,Keyrus,1001 to 5000 employees,Company - Public,1,0,1,1,0,0,0
+51500.0,data engineer,unspecified,Vancouver,Softvision - North America,1001 to 5000 employees,Company - Private,1,1,1,1,0,0,1
+51500.0,data scientist,unspecified,Toronto,Xero,1001 to 5000 employees,Company - Public,1,0,0,1,0,0,1
+71000.0,data engineer,unspecified,Regina,Conexus Credit Union,501 to 1000 employees,Company - Public,0,0,1,0,0,1,0
+70000.0,data scientist,unspecified,Mississauga,Savormetrics,1 to 50 employees,Company - Private,0,0,0,0,0,0,0
+70000.0,data engineer,unspecified,Victoria,INgrooves Music Group,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+70000.0,data scientist,senior,Brampton,Loblaw,10000+ employees,Company - Public,1,0,1,1,0,0,0
+70000.0,data analyst,unspecified,Montreal,Banque Nationale du Canada,10000+ employees,Company - Public,0,0,0,0,0,0,0
+70000.0,data analyst,unspecified,Toronto,Aquent,1001 to 5000 employees,Company - Private,0,0,1,0,0,0,1
+70000.0,data engineer,unspecified,Toronto,ARISOFT INC.,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+70000.0,data analyst,unspecified,Saint-Hubert,Techo-Bloc,201 to 500 employees,Company - Private,1,0,1,1,0,0,1
+70000.0,data analyst,unspecified,Toronto,Recruiting For Less,Unknown,Company - Public,0,0,0,0,0,0,1
+70000.0,research scientist,unspecified,London,Western University,51 to 200 employees,College / University,0,0,0,0,0,0,1
+70000.0,data engineer,unspecified,Vancouver,Finn.ai,51 to 200 employees,Company - Private,1,0,0,1,0,0,0
+70000.0,data engineer,unspecified,Ontario,Johnson,501 to 1000 employees,Unknown,0,0,1,0,0,1,0
+70000.0,data engineer,unspecified,Toronto,SoftVision - North America,1001 to 5000 employees,Company - Private,1,1,1,1,0,0,1
+70000.0,research scientist,unspecified,London,Parmalat Canada,1001 to 5000 employees,Subsidiary or Business Segment,0,0,0,0,0,0,1
+70000.0,data scientist,unspecified,Toronto,Nielsen,10000+ employees,Company - Public,1,0,1,1,0,0,1
+70000.0,data analyst,senior,Vancouver,Electronic Arts,5001 to 10000 employees,Company - Public,1,0,1,1,0,0,1
+70000.0,research scientist,unspecified,Laval,Charles River Laboratories,10000+ employees,Company - Public,0,0,0,0,0,0,1
+70000.0,data scientist,senior,Vancouver,Teck Resources Limited,5001 to 10000 employees,Company - Public,1,0,1,1,0,0,1
+70000.0,data engineer,senior,Mississauga,SOTI,1001 to 5000 employees,Company - Private,1,0,1,1,0,1,1
+70000.0,data analyst,senior,Mississauga,Citibank,5001 to 10000 employees,Subsidiary or Business Segment,1,0,1,1,0,0,1
+70000.0,data scientist,unspecified,Vancouver,Targeted Talent,1 to 50 employees,Unknown,1,0,1,1,0,1,1
+70000.0,data analyst,senior,Toronto,Maxima Consulting,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+70000.0,machine learning engineer,unspecified,London,Autodata Solutions,501 to 1000 employees,Company - Private,1,0,1,1,1,0,0
+93500.0,data analyst,unspecified,Vancouver,PHSA,10000+ employees,Non-profit Organisation,0,0,0,0,0,1,1
+93500.0,data analyst,unspecified,Burnaby,Provincial Health Services Authority,10000+ employees,Non-profit Organisation,0,0,0,0,0,1,0
+93500.0,data analyst,senior,Toronto,Thinkingbox,1 to 50 employees,Company - Private,0,0,1,0,0,0,0
+93500.0,data engineer,unspecified,Ontario,RSA Group,10000+ employees,Company - Public,0,0,1,0,0,1,0
+93500.0,data analyst,unspecified,Maple Ridge,Lordco Parts Ltd.,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,1
+93500.0,data engineer,unspecified,Montreal,avenuecode.com,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+93500.0,data engineer,unspecified,Toronto,"Onica, a Rackspace Company",201 to 500 employees,Company - Private,1,0,1,1,0,0,1
+93500.0,research scientist,unspecified,Montreal,Facebook,10000+ employees,Company - Public,1,0,0,1,0,0,0
+93500.0,data scientist,senior,Brampton,Loblaw,10000+ employees,Company - Public,1,0,1,1,0,0,1
+93500.0,data engineer,senior,Toronto,RBC,10000+ employees,Company - Public,1,0,1,1,0,1,0
+93500.0,manager analytics,unspecified,Mississauga,BMO Financial Group,10000+ employees,Company - Public,1,0,1,1,0,1,0
+93500.0,data engineer,senior,Toronto,BenchSci,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+93500.0,data engineer,unspecified,Quebec,Canadian National Railway,10000+ employees,Company - Public,1,0,1,1,0,0,0
+93500.0,data engineer,unspecified,Quebec,Canadian National Railway,10000+ employees,Company - Public,1,0,1,1,0,0,0
+93500.0,data engineer,unspecified,Laval,Croesus,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+93500.0,data scientist,senior,Brampton,Loblaw,10000+ employees,Company - Public,1,0,1,1,0,0,1
+93500.0,data engineer,unspecified,Toronto,Blackhawk Network,1001 to 5000 employees,Company - Private,1,0,0,1,0,0,1
+93500.0,machine learning engineer,senior,Toronto,SoundHound Inc.,201 to 500 employees,Company - Private,1,0,0,1,1,0,0
+43000.0,data analyst,senior,Brampton,Loblaw,10000+ employees,Company - Public,1,0,1,1,0,1,1
+43000.0,data scientist,unspecified,Ottawa,h2o.ai,201 to 500 employees,Company - Private,1,0,0,1,0,0,1
+43000.0,data analyst,senior,Brampton,Loblaw Companies Limited,10000+ employees,Company - Public,1,0,1,1,0,1,1
+43000.0,data analyst,unspecified,Ottawa,Natural Partners Fullscript,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+43000.0,data scientist,senior,Vancouver,Global Relay,201 to 500 employees,Company - Private,1,0,0,1,0,0,1
+43000.0,data engineer,unspecified,Vancouver,MacroHealth,1 to 50 employees,Company - Private,1,0,0,1,0,0,1
+43000.0,data engineer,unspecified,Vancouver,Softvision,1 to 50 employees,Unknown,1,1,1,1,0,0,1
+43000.0,data analyst,senior,Toronto,LifeLabs,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,1
+43000.0,data analyst,senior,Toronto,FreshBooks,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+43000.0,business intelligent analyst,unspecified,Boucherville,Uni-Select,1001 to 5000 employees,Company - Public,1,0,1,1,0,0,0
+43000.0,data scientist,unspecified,Toronto,Intact,10000+ employees,Company - Public,0,0,0,0,0,0,0
+43000.0,data engineer,senior,Vancouver,IT IQ TECH RECRUITERS LTD,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+43000.0,data analyst,senior,Mississauga,Citi,10000+ employees,Company - Public,0,0,0,0,0,0,0
+43000.0,data analyst,senior,Mississauga,Citibank,5001 to 10000 employees,Subsidiary or Business Segment,0,0,0,0,0,0,0
+43000.0,business intelligent analyst,senior,Victoria,Government of British Columbia,10000+ employees,Government,1,0,1,1,0,1,1
+43000.0,business intelligent analyst,unspecified,Montreal,Desjardins,10000+ employees,Company - Private,0,0,1,0,0,1,0
+43000.0,data engineer,senior,Toronto,Nomis Solutions,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+43000.0,data analyst,senior,Richmond,ZE Power Engineering,1 to 50 employees,Company - Private,0,0,1,0,0,0,1
+43000.0,data engineer,senior,Burnaby,Infoblox,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,1
+43000.0,business intelligent analyst,unspecified,Montreal,Unity Technologies,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,1
+43000.0,data analyst,unspecified,Saint-Eustache,Bath Fitter,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,1
+79000.0,research scientist,unspecified,Vancouver,AbCellera Biologics,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+79000.0,research scientist,unspecified,Montreal,Facebook,10000+ employees,Company - Public,1,0,0,1,0,0,0
+79000.0,data scientist,senior,Brampton,Loblaw,10000+ employees,Company - Public,1,0,1,1,0,0,1
+79000.0,research scientist,senior,Prince Edward Island,BioVectra Inc.,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+79000.0,data engineer,senior,Toronto,RBC,10000+ employees,Company - Public,1,0,1,1,0,1,0
+79000.0,manager analytics,unspecified,Mississauga,BMO Financial Group,10000+ employees,Company - Public,1,0,1,1,0,1,0
+79000.0,data scientist,senior,Edmonton,AltaML Inc./Janalta Interactive Inc.,1 to 50 employees,Company - Private,1,0,1,1,0,0,0
+79000.0,data engineer,senior,Toronto,BenchSci,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+79000.0,data analyst,unspecified,Kitchener,Grand River Hospital,1001 to 5000 employees,Hospital,0,0,0,0,0,0,1
+79000.0,data analyst,senior,Vancouver,Aritzia,1001 to 5000 employees,Company - Public,0,0,1,0,0,0,0
+79000.0,data engineer,unspecified,Quebec,Canadian National Railway,10000+ employees,Company - Public,1,0,1,1,0,0,0
+79000.0,data engineer,unspecified,Quebec,Canadian National Railway,10000+ employees,Company - Public,1,0,1,1,0,0,0
+79000.0,data analyst,junior,Victoria,Kano Applications,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+79000.0,data engineer,unspecified,Laval,Croesus,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+79000.0,data engineer,unspecified,Ottawa,Wicket,Unknown,Company - Private,1,0,1,1,0,0,1
+84500.0,data scientist,senior,Brampton,Loblaw,10000+ employees,Company - Public,1,0,1,1,0,0,1
+84500.0,data engineer,unspecified,Toronto,Blackhawk Network,1001 to 5000 employees,Company - Private,1,0,0,1,0,0,1
+84500.0,manager analytics,unspecified,Welwyn,Roche,10000+ employees,Company - Public,1,0,1,1,0,1,0
+84500.0,data analyst,unspecified,Montreal,Ubisoft,10000+ employees,Company - Public,0,0,1,0,0,1,1
+84500.0,research scientist,unspecified,Vancouver,Aurora Biomed,1 to 50 employees,Company - Public,0,0,0,0,0,0,1
+84500.0,machine learning engineer,unspecified,Toronto,ProteinQure Inc,1 to 50 employees,Company - Private,0,0,0,0,0,1,0
+84500.0,data analyst,unspecified,Montreal,Ubisoft,10000+ employees,Company - Public,0,0,1,0,0,1,1
+84500.0,machine learning engineer,senior,Toronto,SoundHound Inc.,201 to 500 employees,Company - Private,1,0,0,1,1,0,0
+84500.0,data analyst,unspecified,Montreal,MindGeek Careers,1001 to 5000 employees,Company - Private,0,0,1,0,0,0,1
+84500.0,research scientist,senior,Chalk River,Canadian Nuclear Laboratories,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,1
+84500.0,data analyst,unspecified,Calgary,Trans Mountain,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+84500.0,data scientist,unspecified,Ottawa,h2o.ai,201 to 500 employees,Company - Private,1,0,0,1,0,0,1
+84500.0,data analyst,senior,Brampton,Loblaw,10000+ employees,Company - Public,1,0,1,1,0,1,1
+62000.0,research scientist,unspecified,Guelph,Nutreco,10000+ employees,Subsidiary or Business Segment,0,0,0,0,0,0,1
+62000.0,data engineer,senior,Montreal,Sonder,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,0
+62000.0,data scientist,senior,Edmonton,AltaML Inc./Janalta Interactive Inc.,Unknown,Company - Private,1,0,1,1,0,0,0
+62000.0,data engineer,intern,Toronto,AIR MILES,501 to 1000 employees,Company - Private,1,0,1,1,0,1,1
+62000.0,data analyst,unspecified,Calgary,DIRTT,1001 to 5000 employees,Company - Public,0,0,1,0,0,0,1
+62000.0,data engineer,unspecified,Ottawa,Nokia,10000+ employees,Company - Public,1,0,1,1,0,0,0
+62000.0,data analyst,unspecified,Vancouver,Ace It Strategies,1 to 50 employees,Unknown,0,0,0,0,0,0,0
+62000.0,data engineer,unspecified,Toronto,Teranet,501 to 1000 employees,Company - Private,1,0,1,1,0,1,0
+62000.0,data analyst,unspecified,Ottawa,Natural Partners Fullscript,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+62000.0,data analyst,unspecified,Toronto,Sunnybrook Health Sciences Centre,5001 to 10000 employees,Hospital,0,0,0,0,0,0,1
+62000.0,data engineer,unspecified,Vancouver,MacroHealth,1 to 50 employees,Company - Private,1,0,0,1,0,0,1
+62000.0,data scientist,senior,Vancouver,Global Relay,201 to 500 employees,Company - Private,1,0,0,1,0,0,1
+62000.0,data engineer,unspecified,Vancouver,Softvision,1 to 50 employees,Unknown,1,1,1,1,0,0,1
+62000.0,machine learning engineer,unspecified,Mississauga,BusyQA,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+62000.0,data analyst,senior,Toronto,LifeLabs,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,1
+62000.0,statistician,senior,Kirkland,IQVIA,10000+ employees,Company - Public,0,0,0,0,0,1,1
+62000.0,data analyst,unspecified,Montreal,Eagle Professional Resources,51 to 200 employees,Company - Private,0,0,1,0,0,0,1
+62000.0,data analyst,senior,Toronto,FreshBooks,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+75500.0,business intelligent analyst,unspecified,Boucherville,Uni-Select,1001 to 5000 employees,Company - Public,1,0,1,1,0,0,0
+75500.0,data scientist,unspecified,Toronto,Intact,10000+ employees,Company - Public,0,0,0,0,0,0,0
+75500.0,business intelligent analyst,unspecified,Toronto,Bell Canada,10000+ employees,Company - Public,0,0,1,0,0,1,1
+75500.0,data analyst,unspecified,Toronto,Sunnybrook Health Sciences Centre,5001 to 10000 employees,Hospital,0,0,0,0,0,0,1
+75500.0,data engineer,unspecified,Calgary,Cognizant Softvision,1001 to 5000 employees,Company - Private,1,1,1,1,0,0,1
+75500.0,data analyst,senior,Mississauga,Citi,10000+ employees,Company - Public,0,0,0,0,0,0,0
+75500.0,data engineer,senior,Vancouver,IT IQ TECH RECRUITERS LTD,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+75500.0,data engineer,unspecified,Montreal,District M,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+75500.0,data analyst,senior,Mississauga,Citibank,5001 to 10000 employees,Subsidiary or Business Segment,0,0,0,0,0,0,0
+75500.0,data analyst,unspecified,Mississauga,Investment Planning Counsel,201 to 500 employees,Company - Private,1,0,1,1,0,1,1
+75500.0,manager analytics,unspecified,Vancouver,Norton Rose Fulbright,5001 to 10000 employees,Private Practice / Firm,0,0,0,0,0,0,1
+75500.0,data analyst,unspecified,Montreal,MindGeek Careers,1001 to 5000 employees,Company - Private,0,0,1,0,0,0,1
+75500.0,data engineer,senior,North York,Nestlé,10000+ employees,Company - Public,1,0,1,1,0,0,1
+75500.0,data engineer,unspecified,Toronto,Amazon,10000+ employees,Company - Public,1,0,1,1,0,0,1
+75500.0,business intelligent analyst,senior,Victoria,Government of British Columbia,10000+ employees,Government,1,0,1,1,0,1,1
+75500.0,data engineer,senior,Toronto,MasterCard,10000+ employees,Company - Public,1,0,1,1,0,0,1
+75500.0,business intelligent analyst,unspecified,Montreal,Desjardins,10000+ employees,Company - Private,0,0,1,0,0,1,0
+75500.0,data engineer,senior,Toronto,Nomis Solutions,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+75500.0,data analyst,senior,Montreal,Banque Nationale du Canada,10000+ employees,Company - Public,0,0,0,0,0,0,0
+75500.0,data engineer,senior,Burnaby,Infoblox,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,1
+95000.0,data engineer,unspecified,Saint-Laurent,CAE Inc.,10000+ employees,Company - Public,1,0,1,1,0,0,1
+95000.0,data engineer,unspecified,Montreal,Transit App,1 to 50 employees,Company - Private,1,0,0,1,0,0,0
+95000.0,data analyst,senior,Richmond,ZE Power Engineering,1 to 50 employees,Company - Private,0,0,1,0,0,0,1
+95000.0,research scientist,unspecified,Guelph,Trouw Nutrition Canada Inc.,501 to 1000 employees,Company - Private,0,0,0,0,0,0,1
+95000.0,data scientist,senior,Toronto,Manulife,10000+ employees,Company - Public,1,0,1,1,0,1,1
+95000.0,data engineer,unspecified,Toronto,Jerry,1 to 50 employees,Company - Private,0,0,1,0,0,0,0
+95000.0,data analyst,unspecified,Vancouver,Providence Health Care,5001 to 10000 employees,Hospital,0,0,0,0,0,1,1
+95000.0,data analyst,unspecified,Saint-Eustache,Bath Fitter,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,1
+95000.0,business intelligent analyst,unspecified,Montreal,Unity Technologies,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,1
+95000.0,manager analytics,unspecified,Vancouver,Amazon,10000+ employees,Company - Public,0,0,0,0,0,0,1
+95000.0,manager analytics,unspecified,Toronto,NetEffect Solutions,51 to 200 employees,Company - Private,0,0,0,0,0,0,0
+95000.0,machine learning engineer,unspecified,Markham,Aviva,10000+ employees,Company - Public,0,0,1,0,0,1,1
+95000.0,machine learning engineer,senior,Toronto,Bell Canada,10000+ employees,Company - Public,1,0,1,1,0,0,0
+95000.0,data analyst,unspecified,Kitchener,Grand River Hospital,1001 to 5000 employees,Hospital,0,0,0,0,0,0,1
+95000.0,research scientist,unspecified,Oakville,Insulet Corporation,1001 to 5000 employees,Company - Public,0,0,0,0,0,0,1
+95000.0,data engineer,senior,Cochin,Prevalent AI,Unknown,Company - Private,1,0,1,1,0,0,0
+95000.0,data analyst,unspecified,Montreal,Bethesda Game Studios,51 to 200 employees,Subsidiary or Business Segment,1,0,1,1,0,0,1
+95000.0,research scientist,senior,Montreal,Nuance,5001 to 10000 employees,Company - Public,1,0,0,1,0,0,0
+95000.0,data engineer,unspecified,Montreal,agileDSS,51 to 200 employees,Company - Private,1,0,0,1,0,0,1
+95000.0,data engineer,unspecified,Montreal,McKinsey & Company,10000+ employees,Company - Private,1,0,0,1,0,0,1
+95000.0,data analyst,unspecified,Montreal,Infotree Service Inc,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+105000.0,business intelligent analyst,senior,Victoria,BC Public Service,10000+ employees,Government,1,0,1,1,0,1,1
+105000.0,data scientist,senior,Toronto,Loblaw Digital,51 to 200 employees,Company - Public,1,0,1,1,0,0,0
+105000.0,data engineer,senior,Toronto,PagerDuty,501 to 1000 employees,Company - Public,1,0,1,1,0,1,0
+105000.0,manager analytics,unspecified,Toronto,Veeva Systems,1001 to 5000 employees,Company - Public,0,0,0,0,0,0,1
+105000.0,data analyst,unspecified,Ottawa,Canopy Growth Corporation,501 to 1000 employees,Company - Private,0,0,0,0,0,0,1
+105000.0,data engineer,senior,Vancouver,Electronic Arts,5001 to 10000 employees,Company - Public,1,0,1,1,0,0,0
+105000.0,data engineer,senior,Toronto,Perpetua,1 to 50 employees,Company - Private,1,0,0,1,0,0,0
+105000.0,data engineer,unspecified,Calgary,Softvision,1 to 50 employees,Unknown,1,1,1,1,0,0,1
+105000.0,data engineer,senior,Toronto,Interac,201 to 500 employees,Company - Private,1,0,1,1,0,0,1
+105000.0,data analyst,unspecified,Montreal,Square Enix Co.,1001 to 5000 employees,Company - Public,1,0,1,1,0,0,1
+105000.0,manager analytics,unspecified,Toronto,Loblaw Digital,51 to 200 employees,Company - Public,1,0,1,1,0,0,0
+105000.0,manager analytics,unspecified,Etobicoke,Parmalat Canada,1001 to 5000 employees,Subsidiary or Business Segment,0,0,0,0,0,0,1
+105000.0,data analyst,unspecified,Toronto,DDB,10000+ employees,Subsidiary or Business Segment,1,0,1,1,0,1,0
+105000.0,data scientist,unspecified,Toronto,Mitacs,51 to 200 employees,Non-profit Organisation,0,0,0,0,0,0,1
+105000.0,data engineer,senior,Toronto,VTS,201 to 500 employees,Company - Private,1,0,0,1,0,0,1
+105000.0,data engineer,senior,Toronto,MasterCard,10000+ employees,Company - Public,1,0,1,1,0,0,1
+105000.0,data engineer,senior,Victoria,BC IMC,Unknown,Company - Private,1,0,1,1,0,1,1
+105000.0,data engineer,unspecified,Vancouver,Amazon,10000+ employees,Company - Public,1,0,1,1,0,0,1
+105000.0,data analyst,unspecified,Montreal,emergiTEL Inc.,201 to 500 employees,Company - Private,1,0,1,1,0,0,1
+52500.0,manager analytics,unspecified,Mississauga,Genentech,10000+ employees,Subsidiary or Business Segment,1,0,1,1,0,1,0
+52500.0,data scientist,senior,Regina,Farm Credit Canada,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,0
+52500.0,research scientist,unspecified,Richmond,MDA,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,0
+52500.0,data engineer,unspecified,Montreal,TELUS Communications,10000+ employees,Company - Public,1,0,1,1,0,0,0
+52500.0,data engineer,unspecified,Montreal,Velan,1001 to 5000 employees,Company - Public,1,0,1,1,0,0,0
+52500.0,data analyst,unspecified,Concord,Bailey Metal Products Ltd,201 to 500 employees,Company - Private,0,0,1,0,0,0,1
+52500.0,data analyst,unspecified,Montreal,ZeniMax Media Inc.,201 to 500 employees,Company - Private,1,0,1,1,0,0,1
+52500.0,data engineer,senior,Vancouver,SolarWinds,1001 to 5000 employees,Company - Public,0,0,1,0,0,0,0
+52500.0,data scientist,unspecified,Vancouver,Global Relay,201 to 500 employees,Company - Private,0,0,0,0,0,0,0
+52500.0,data engineer,unspecified,Calgary,Eagle Professional Resources,51 to 200 employees,Company - Private,1,0,0,1,0,0,0
+52500.0,data engineer,unspecified,Ottawa,Interset,51 to 200 employees,Company - Private,0,0,1,0,0,0,0
+52500.0,data engineer,senior,Toronto,Nomis,1 to 50 employees,Company - Private,1,0,1,1,0,0,0
+52500.0,data engineer,senior,Montreal,agileDSS,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+52500.0,data engineer,senior,Montreal,Intact,10000+ employees,Company - Public,1,0,1,1,0,0,1
+52500.0,machine learning engineer,unspecified,Montreal,TandemLaunch,1 to 50 employees,Company - Private,1,0,0,1,0,0,1
+52500.0,data engineer,senior,Toronto,Assurance Careers,51 to 200 employees,Company - Private,0,0,1,0,0,0,1
+87000.0,machine learning engineer,senior,Toronto,Rakuten Kobo,201 to 500 employees,Company - Private,0,0,0,0,1,0,0
+87000.0,machine learning engineer,senior,Mississauga,Citi,10000+ employees,Company - Public,1,0,0,1,1,0,0
+87000.0,machine learning engineer,senior,Mississauga,Citibank,5001 to 10000 employees,Subsidiary or Business Segment,1,0,0,1,1,0,0
+87000.0,data engineer,senior,Toronto,Manulife,10000+ employees,Company - Public,1,0,1,1,0,1,1
+87000.0,data engineer,unspecified,Montreal,Guavus,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,0,0
+87000.0,data analyst,unspecified,Toronto,CI Financial,1001 to 5000 employees,Company - Public,1,0,1,1,0,0,1
+87000.0,data engineer,senior,Cambridge,Gore Mutual Insurance Company,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+87000.0,data scientist,senior,Toronto,Nylas,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+87000.0,data engineer,senior,Montreal,TELUS,10000+ employees,Company - Public,1,0,1,1,0,0,0
+87000.0,data engineer,senior,Toronto,SADA,51 to 200 employees,Company - Private,1,0,1,1,0,1,0
+87000.0,research scientist,unspecified,Montreal,Gravity Conseil,Unknown,Company - Public,1,0,0,1,0,0,1
+87000.0,data engineer,senior,Toronto,Benjamin Douglas Consulting LLC,1 to 50 employees,Company - Private,0,0,1,0,0,0,1
+87000.0,data engineer,senior,Vancouver,Softmax Data Inc.,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+87000.0,data engineer,senior,Toronto,Ethoca,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+87000.0,data scientist,senior,Mississauga,Citi,10000+ employees,Company - Public,0,0,0,0,0,0,0
+87000.0,data engineer,senior,Toronto,Overbond,1 to 50 employees,Company - Private,1,0,0,1,0,0,0
+76000.0,data scientist,senior,Mississauga,Citibank,5001 to 10000 employees,Subsidiary or Business Segment,0,0,0,0,0,0,0
+76000.0,data analyst,senior,Toronto,Rubikloud Technologies,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+76000.0,machine learning engineer,senior,Montreal,AdGear,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+76000.0,data analyst,senior,Vancouver,Kabam,201 to 500 employees,Company - Private,0,0,1,0,0,0,0
+76000.0,data engineer,senior,Toronto,Veeva Systems,1001 to 5000 employees,Company - Public,1,0,1,1,0,0,0
+76000.0,manager analytics,unspecified,Vancouver,Unity Technologies,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,0
+76000.0,data engineer,senior,Toronto,Manulife,10000+ employees,Company - Public,1,0,0,1,0,0,1
+76000.0,data engineer,senior,Toronto,Benjamin Douglas,1 to 50 employees,Company - Private,0,0,1,0,0,0,1
+76000.0,data engineer,senior,Toronto,Killi,Unknown,Company - Private,1,0,0,1,0,0,0
+76000.0,data engineer,senior,Toronto,Ethoca,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+76000.0,data engineer,unspecified,Montreal,QuantumBlack,501 to 1000 employees,Company - Private,1,0,1,1,0,0,1
+76000.0,data scientist,senior,Markham,Aviva,10000+ employees,Company - Public,0,0,0,0,0,0,0
+76000.0,data engineer,senior,Toronto,Economical Insurance,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,0
+76000.0,machine learning engineer,unspecified,Montreal,Desjardins,10000+ employees,Company - Private,1,0,1,1,0,0,0
+76000.0,machine learning engineer,senior,Toronto,SoundHound Inc.,201 to 500 employees,Company - Private,1,0,0,1,0,0,0
+57500.0,data analyst,unspecified,Waterloo,Ontario Teachers Insurance Plan,501 to 1000 employees,Non-profit Organisation,0,0,1,0,0,0,1
+57500.0,data analyst,senior,Montreal,Autodesk,5001 to 10000 employees,Company - Public,1,0,1,1,0,0,0
+57500.0,data analyst,unspecified,Ottawa,Natural Partners Fullscript,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+57500.0,data analyst,unspecified,Ottawa,Natural Partners Fullscript,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+57500.0,data analyst,unspecified,Moncton,Syniti,501 to 1000 employees,Company - Private,0,0,1,0,0,1,1
+57500.0,data analyst,senior,Toronto,Rubikloud Technologies,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+57500.0,data analyst,unspecified,Toronto,Synechron,5001 to 10000 employees,Company - Private,1,0,0,1,0,0,0
+57500.0,business intelligent analyst,unspecified,Ottawa,Export Development Canada,1001 to 5000 employees,Other Organisation,0,0,0,0,0,0,1
+57500.0,data analyst,senior,Montreal,Unity Technologies,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,1
+57500.0,data analyst,junior,Victoria,Kano/Apps,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+57500.0,data analyst,unspecified,Vancouver,University of British Columbia,10000+ employees,College / University,0,0,0,0,0,0,1
+57500.0,data analyst,unspecified,Vancouver,AltisHR,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+57500.0,data analyst,unspecified,Guelph,Intrigue Media,1 to 50 employees,Company - Private,0,0,0,0,0,0,1
+57500.0,data analyst,unspecified,Montreal,Data Sciences Inc.,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+57500.0,data analyst,unspecified,Toronto,theScore,201 to 500 employees,Company - Public,1,0,1,1,0,0,1
+57500.0,data analyst,unspecified,Toronto,Drop,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+57500.0,data analyst,unspecified,Richmond,PressReader,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+57500.0,data analyst,unspecified,Ottawa,Fujitsu,10000+ employees,Company - Public,0,0,0,0,0,0,0
+57500.0,data analyst,unspecified,Lachine,Amazon,10000+ employees,Company - Public,0,0,1,0,0,0,1
+57500.0,data analyst,unspecified,Montreal,Tundra,201 to 500 employees,Company - Private,0,0,1,0,0,0,1
+57500.0,data analyst,unspecified,Vancouver,War Room,1 to 50 employees,Company - Private,0,0,0,0,0,0,1
+57500.0,data analyst,unspecified,Toronto,Briq,1 to 50 employees,Company - Private,0,0,1,0,0,0,0
+57500.0,data analyst,unspecified,Calgary,Vantix Systems,1 to 50 employees,Company - Private,1,0,1,1,0,0,0
+57500.0,data analyst,unspecified,Halifax,Proposify,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+57500.0,data analyst,unspecified,Mississauga,NCRI,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+57500.0,data analyst,unspecified,Victoria,Ingrooves,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+57500.0,data analyst,unspecified,Regina,GasBuddy,51 to 200 employees,Company - Private,1,0,1,1,0,1,1
+57500.0,data analyst,unspecified,Vancouver,Electronic Arts,5001 to 10000 employees,Company - Public,0,1,1,0,0,0,1
+54000.0,data analyst,unspecified,Toronto,Institute for Clinical Evaluative Sciences,51 to 200 employees,Hospital,1,0,1,1,0,1,0
+54000.0,data analyst,unspecified,Sault Ste. Marie,Algoma Public Health,1 to 50 employees,Government,0,0,0,0,0,0,1
+54000.0,data analyst,intern,Montreal,Square Enix Montreal,1001 to 5000 employees,Company - Public,1,0,1,1,0,0,1
+54000.0,data analyst,unspecified,Edmonton,Systematix,501 to 1000 employees,Company - Private,0,0,0,0,0,0,0
+54000.0,data analyst,unspecified,Vancouver,Flowmotion Entertainment,1 to 50 employees,Company - Private,0,0,0,0,0,0,0
+54000.0,data analyst,unspecified,Montreal,Banque Nationale du Canada,10000+ employees,Company - Public,0,0,0,0,0,0,0
+54000.0,data analyst,unspecified,Etobicoke,Moneris Solutions Corporation,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,0
+54000.0,data analyst,unspecified,Mississauga,Peel District School Board,10000+ employees,School / School District,1,0,0,1,0,0,1
+54000.0,data analyst,unspecified,Mississauga,ITAC,1 to 50 employees,Non-profit Organisation,0,0,0,0,0,0,1
+54000.0,data engineer,unspecified,Waterloo,RideCo,Unknown,Company - Public,1,0,1,1,0,0,1
+54000.0,data analyst,unspecified,Vancouver,Electronic Arts,5001 to 10000 employees,Company - Public,1,0,1,1,0,0,1
+54000.0,data analyst,unspecified,Toronto,Jam City,501 to 1000 employees,Company - Private,0,0,1,0,0,0,0
+54000.0,data analyst,unspecified,Oakville,Opus One Winery,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+54000.0,data analyst,unspecified,Regina,CCS Professional Services,1 to 50 employees,Company - Public,0,0,0,0,0,0,0
+54000.0,data analyst,unspecified,Toronto,Sunnybrook Health Sciences Centre,5001 to 10000 employees,Hospital,0,0,0,0,0,0,1
+54000.0,data analyst,senior,Toronto,shopkick,51 to 200 employees,Company - Private,1,0,0,1,0,0,1
+54000.0,data analyst,unspecified,Toronto,Tucows,501 to 1000 employees,Company - Public,1,0,1,1,0,0,1
+54000.0,data analyst,unspecified,Toronto,Lucova,1 to 50 employees,Company - Public,0,0,1,0,0,0,1
+54000.0,data analyst,unspecified,Montreal,Mino Games,1 to 50 employees,Company - Public,1,0,1,1,0,0,1
+54000.0,data analyst,unspecified,Burnaby,PHSA,10000+ employees,Non-profit Organisation,0,0,0,0,0,1,1
+54000.0,data analyst,unspecified,Halifax,AXIS Capital,1001 to 5000 employees,Company - Public,0,0,1,0,0,0,1
+54000.0,data scientist,unspecified,Boucherville,Danone,10000+ employees,Company - Public,1,0,1,1,0,0,1
+54000.0,data analyst,junior,Victoria,Kano Applications,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+54000.0,data analyst,unspecified,Toronto,"Beutel, Goodman & Company Ltd.",Unknown,Private Practice / Firm,0,0,1,0,0,0,1
+54000.0,data analyst,unspecified,Edmonton,City of Edmonton,5001 to 10000 employees,Government,1,0,1,1,0,0,1
+54000.0,data analyst,unspecified,Toronto,Family Service Toronto,51 to 200 employees,Non-profit Organisation,0,0,1,0,0,0,1
+54000.0,data analyst,unspecified,Toronto,Veeva Systems,1001 to 5000 employees,Company - Public,0,0,0,0,0,0,1
+54000.0,data analyst,unspecified,Vancouver,Electronic Arts,5001 to 10000 employees,Company - Public,1,0,1,1,0,0,1
+47000.0,data analyst,unspecified,Vancouver,Thinkingbox,1 to 50 employees,Company - Private,0,0,1,0,0,0,0
+47000.0,data analyst,unspecified,Vancouver,CLOUSEAU ANALYTICS,Unknown,Company - Private,0,0,1,0,0,1,1
+47000.0,data analyst,unspecified,Markham,Max Advanced Brakes,1 to 50 employees,Company - Private,0,0,1,0,0,0,1
+47000.0,data analyst,unspecified,Mississauga,Citi,10000+ employees,Company - Public,1,0,1,1,0,0,1
+47000.0,data analyst,unspecified,Montreal,Desjardins,10000+ employees,Company - Private,0,0,0,0,0,0,0
+47000.0,data analyst,intern,Halifax,RBC,10000+ employees,Company - Public,0,0,1,0,0,0,1
+47000.0,data analyst,unspecified,Vancouver,Mountain Equipment Co-op,1001 to 5000 employees,Other Organisation,1,0,1,1,0,0,1
+47000.0,data analyst,unspecified,Montreal,Infotree Service Inc,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+47000.0,data analyst,unspecified,Burnaby,Metro Vancouver,1001 to 5000 employees,Government,0,0,0,0,0,0,0
+47000.0,data analyst,unspecified,Saint-Hubert,Techo-Bloc,201 to 500 employees,Company - Private,1,0,1,1,0,0,1
+47000.0,data analyst,unspecified,Saskatoon,Vendasta Technologies,201 to 500 employees,Company - Private,0,0,1,0,0,0,0
+47000.0,data analyst,unspecified,Toronto,Maxima Consulting,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+47000.0,data analyst,unspecified,Montreal,Ubisoft,10000+ employees,Company - Public,0,0,1,0,0,1,1
+47000.0,data analyst,unspecified,Cochin,Prevalent AI,Unknown,Company - Private,1,0,0,1,0,0,1
+47000.0,data analyst,unspecified,Vancouver,MacroHealth,1 to 50 employees,Company - Private,0,0,1,0,0,0,1
+47000.0,data analyst,intern,Markham,IBM,10000+ employees,Company - Public,0,0,0,0,0,0,0
+47000.0,data analyst,unspecified,Calgary,DIRTT Environmental Solutions,1001 to 5000 employees,Company - Public,0,0,1,0,0,0,1
+47000.0,data analyst,unspecified,Vancouver,Electronic Arts,5001 to 10000 employees,Company - Public,0,0,0,0,0,0,0
+47000.0,data analyst,unspecified,London,Big Viking Games,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+47000.0,data analyst,unspecified,Ottawa,QSI Inc,1 to 50 employees,Company - Private,0,0,0,0,0,0,1
+47000.0,data analyst,junior,Calgary,Fircroft,501 to 1000 employees,Company - Private,0,0,0,0,0,0,1
+47000.0,data analyst,unspecified,Pembroke,Family & Children's Services of Renfrew County,Unknown,Non-profit Organisation,0,0,0,0,0,0,0
+47000.0,data analyst,unspecified,Vancouver,PHSA,10000+ employees,Non-profit Organisation,0,0,0,0,0,1,1
+47000.0,data analyst,unspecified,Edmonton,AIMCo (Alberta Investment Management Corporation),501 to 1000 employees,Government,1,0,1,1,0,0,0
+47000.0,data analyst,unspecified,Halifax,AXIS Insurance,51 to 200 employees,Company - Private,0,0,1,0,0,0,1
+56000.0,data analyst,unspecified,Chatham,Chatham-Kent Health Alliance,501 to 1000 employees,Non-profit Organisation,0,0,1,0,0,0,1
+56000.0,data analyst,unspecified,Calgary,Trans Mountain,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+56000.0,business intelligent analyst,unspecified,Waterloo,Google,10000+ employees,Company - Public,1,0,1,1,0,0,0
+56000.0,data analyst,unspecified,Vancouver,Kabam,201 to 500 employees,Company - Private,0,0,1,0,0,0,0
+56000.0,data analyst,unspecified,Toronto,Sterling-Turner,Unknown,Company - Private,0,0,1,0,0,0,0
+56000.0,data analyst,unspecified,Vancouver,Thrive Health,1 to 50 employees,Company - Private,0,0,0,0,0,1,0
+56000.0,data analyst,unspecified,Essex,Libro Credit Union,501 to 1000 employees,Company - Private,1,0,1,1,0,1,0
+56000.0,data analyst,unspecified,Montreal,Square Enix Co.,1001 to 5000 employees,Company - Public,1,0,1,1,0,0,1
+56000.0,data analyst,unspecified,Kitchener,Grand River Hospital,1001 to 5000 employees,Hospital,0,0,0,0,0,0,1
+56000.0,data analyst,unspecified,Toronto,College of Physicians and Surgeons of Ontario,201 to 500 employees,College / University,1,0,1,1,0,1,0
+56000.0,data analyst,senior,Toronto,shopkick,51 to 200 employees,Company - Private,1,0,0,1,0,0,1
+56000.0,data analyst,unspecified,Vancouver,Providence Health Care,5001 to 10000 employees,Hospital,0,0,0,0,0,1,1
+56000.0,data analyst,unspecified,Burnaby,Provincial Health Services Authority,10000+ employees,Non-profit Organisation,0,0,0,0,0,1,0
+56000.0,data analyst,unspecified,Toronto,DDB,10000+ employees,Subsidiary or Business Segment,1,0,1,1,0,1,0
+56000.0,data analyst,unspecified,Montreal,Eagle Professional Resources,51 to 200 employees,Company - Private,0,0,1,0,0,0,1
+56000.0,data analyst,unspecified,Upper Canada Village,RBC,10000+ employees,Company - Public,1,0,1,1,0,0,1
+56000.0,data analyst,senior,Toronto,Cover,51 to 200 employees,Self-employed,1,0,1,1,0,0,0
+56000.0,data analyst,unspecified,Calgary,Direct Plus Food Group,201 to 500 employees,Company - Private,0,0,1,0,0,0,1
+56000.0,data analyst,unspecified,Toronto,"Rand Worldwide, Inc",201 to 500 employees,Company - Public,0,0,0,0,0,0,0
+56000.0,business intelligent analyst,unspecified,Mississauga,Roche,10000+ employees,Company - Public,0,0,0,0,0,0,1
+56000.0,data analyst,unspecified,Montreal,ODESIA,51 to 200 employees,Company - Private,0,0,0,0,0,0,0
+56000.0,data analyst,unspecified,Mississauga,AXIS Database Marketing,1 to 50 employees,Company - Private,0,0,1,0,0,0,1
+56000.0,data analyst,unspecified,British Columbia,Finesse-Tech,51 to 200 employees,Company - Private,0,0,1,0,0,1,1
+56000.0,data analyst,unspecified,Toronto,Dawn InfoTek Inc.,51 to 200 employees,Company - Private,0,0,1,0,0,0,1
+51500.0,data analyst,unspecified,Toronto,Sunnybrook Health Sciences Centre,5001 to 10000 employees,Hospital,0,0,0,0,0,0,1
+51500.0,data analyst,unspecified,Toronto,Morningstar,5001 to 10000 employees,Company - Public,0,0,1,0,0,0,0
+51500.0,data analyst,unspecified,Montreal,Ubisoft,10000+ employees,Company - Public,0,0,1,0,0,1,1
+51500.0,data scientist,intern,Calgary,Intact,10000+ employees,Company - Public,1,0,0,1,0,0,0
+51500.0,data analyst,unspecified,Montreal,Banque Nationale du Canada,10000+ employees,Company - Public,0,0,0,0,0,0,0
+51500.0,data analyst,senior,Brampton,Loblaw Companies Limited,10000+ employees,Company - Public,1,0,1,1,0,1,1
+51500.0,business intelligent analyst,unspecified,London,Robarts Clinical Trials,201 to 500 employees,Company - Private,0,0,0,0,0,0,1
+51500.0,data analyst,unspecified,Toronto,CanDeal,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+51500.0,data analyst,senior,Vancouver,Aritzia,1001 to 5000 employees,Company - Public,0,0,1,0,0,0,0
+51500.0,data analyst,unspecified,Laval,Linen Chest,501 to 1000 employees,Company - Private,0,0,0,0,0,0,1
+51500.0,data analyst,unspecified,Ontario,IQVIA,10000+ employees,Company - Public,0,0,1,0,0,1,1
+51500.0,data analyst,unspecified,Toronto,Recruiting For Less,Unknown,Company - Public,0,0,0,0,0,0,1
+51500.0,data analyst,senior,Kingston,Talentlab,1 to 50 employees,Company - Private,0,0,0,0,0,0,1
+51500.0,data analyst,unspecified,Kitchener,Grand River Hospital,1001 to 5000 employees,Hospital,0,0,0,0,0,0,1
+51500.0,data analyst,unspecified,Toronto,BMO Financial Group,10000+ employees,Company - Public,1,0,1,1,0,1,0
+51500.0,data analyst,senior,Toronto,FreshBooks,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+51500.0,business intelligent analyst,unspecified,Toronto,Bell Canada,10000+ employees,Company - Public,0,0,1,0,0,1,0
+51500.0,data analyst,unspecified,Toronto,Sunnybrook Health Sciences Centre,5001 to 10000 employees,Hospital,0,0,0,0,0,0,1
+51500.0,data analyst,senior,Toronto,LifeLabs,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,1
+51500.0,data analyst,unspecified,Saint-Eustache,Bath Fitter,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,1
+51500.0,data analyst,unspecified,Vancouver,Ace It Strategies,1 to 50 employees,Unknown,0,0,0,0,0,0,0
+51500.0,data analyst,unspecified,Mississauga,Citibank,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,1
+51500.0,data analyst,unspecified,Mississauga,Investment Planning Counsel,201 to 500 employees,Company - Private,1,0,1,1,0,1,1
+51500.0,data engineer,unspecified,Ottawa,Wicket,Unknown,Company - Private,1,0,1,1,0,0,1
+51500.0,data analyst,unspecified,Mississauga,OSL Retail Services,5001 to 10000 employees,Company - Private,0,0,1,0,0,1,1
+51500.0,data analyst,senior,Vancouver,Electronic Arts,5001 to 10000 employees,Company - Public,1,0,1,1,0,0,1
+51500.0,data analyst,senior,Toronto,PC Financial,51 to 200 employees,Company - Private,0,0,1,0,0,1,0
+51500.0,data analyst,unspecified,Mississauga,NCRI,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+51500.0,data analyst,unspecified,Montreal,MindGeek,1001 to 5000 employees,Company - Private,0,0,1,0,0,0,1
+51500.0,data analyst,senior,Mississauga,BMO Financial Group,10000+ employees,Company - Public,1,0,0,1,0,1,1
+51500.0,data analyst,senior,Toronto,Thinkingbox,1 to 50 employees,Company - Private,0,0,1,0,0,0,0
+51500.0,data analyst,unspecified,Montreal,MindGeek Careers,1001 to 5000 employees,Company - Private,0,0,1,0,0,0,1
+51500.0,business intelligent analyst,senior,Edmonton,TEEMA,201 to 500 employees,Company - Private,0,0,0,0,0,0,0
+51500.0,data scientist,unspecified,Vancouver,NumerixS Quant,Unknown,Company - Private,1,0,0,1,0,0,1
+51500.0,business intelligent analyst,senior,Fredericton,TEEMA,201 to 500 employees,Company - Private,0,0,0,0,0,0,1
+51500.0,data analyst,unspecified,Vancouver,Provincial Health Services Authority,10000+ employees,Non-profit Organisation,0,0,0,0,0,1,1
+51500.0,data analyst,unspecified,Vancouver,IT IQ TECH RECRUITERS LTD,1 to 50 employees,Company - Private,0,0,0,0,0,1,1
+51500.0,data analyst,unspecified,Montreal,MindGeek Careers,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,1
+51500.0,data analyst,unspecified,Toronto,CI Financial,1001 to 5000 employees,Company - Public,1,0,1,1,0,0,1
+51500.0,business intelligent analyst,unspecified,Oakville,Buchanan Technologies,201 to 500 employees,Company - Private,0,0,0,0,0,0,1
+61000.0,data analyst,unspecified,Vancouver,IT IQ TECH RECRUITERS LTD,1 to 50 employees,Company - Private,0,0,1,0,0,0,1
+61000.0,data analyst,unspecified,Newmarket,Util-Assist Inc.,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+61000.0,data analyst,unspecified,Montreal,Bethesda Game Studios,51 to 200 employees,Subsidiary or Business Segment,1,0,1,1,0,0,1
+61000.0,data engineer,senior,Brampton,Joe Fresh,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,0,1
+61000.0,data analyst,unspecified,Maple Ridge,Lordco Parts Ltd.,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,1
+61000.0,data analyst,unspecified,Surrey,Fraser Health,10000+ employees,Hospital,0,0,0,0,0,1,1
+61000.0,data analyst,unspecified,Montreal,emergiTEL Inc.,201 to 500 employees,Company - Private,1,0,1,1,0,0,1
+61000.0,data analyst,unspecified,Ottawa,Canopy Growth Corporation,501 to 1000 employees,Company - Private,0,0,0,0,0,0,1
+61000.0,business intelligent analyst,unspecified,Markham,Real Matters,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+61000.0,business intelligent analyst,unspecified,Montreal,Banque Nationale du Canada,10000+ employees,Company - Public,0,0,0,0,0,0,0
+61000.0,business intelligent analyst,senior,Edmonton,TEEMA,201 to 500 employees,Company - Private,0,0,0,0,0,0,0
+61000.0,business intelligent analyst,unspecified,Markham,Real Matters,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+61000.0,data analyst,senior,Montreal,Banque Nationale du Canada,10000+ employees,Company - Public,0,0,0,0,0,0,0
+61000.0,data analyst,senior,Mississauga,Citi,10000+ employees,Company - Public,0,0,0,0,0,0,0
+61000.0,data analyst,unspecified,Montreal,ZeniMax Media Inc.,201 to 500 employees,Company - Private,1,0,1,1,0,0,1
+61000.0,data engineer,senior,Brampton,Loblaw Companies Limited,10000+ employees,Company - Public,1,0,1,1,0,0,1
+61000.0,data analyst,senior,Mississauga,Citibank,5001 to 10000 employees,Subsidiary or Business Segment,0,0,0,0,0,0,0
+61000.0,data analyst,senior,Mississauga,Citibank,5001 to 10000 employees,Subsidiary or Business Segment,1,0,1,1,0,0,1
+61000.0,data analyst,senior,Brampton,Joe Fresh,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,1,1
+81500.0,data analyst,unspecified,Toronto,DDB,10000+ employees,Subsidiary or Business Segment,1,0,1,1,0,1,0
+81500.0,data analyst,senior,Mississauga,Citi,10000+ employees,Company - Public,1,0,1,1,0,0,1
+81500.0,data analyst,senior,Vancouver,Kabam,201 to 500 employees,Company - Private,0,0,1,0,0,0,0
+81500.0,machine learning engineer,senior,Mississauga,Citibank,5001 to 10000 employees,Subsidiary or Business Segment,0,0,1,0,0,0,1
+81500.0,data analyst,unspecified,Concord,Bailey Metal Products Ltd,201 to 500 employees,Company - Private,0,0,1,0,0,0,1
+81500.0,data analyst,senior,Toronto,Maxima Consulting,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+81500.0,machine learning engineer,senior,Mississauga,Citi,10000+ employees,Company - Public,0,0,1,0,0,0,1
+81500.0,data analyst,unspecified,Toronto,Sunnybrook Health Sciences Centre,5001 to 10000 employees,Hospital,0,0,0,0,0,0,1
+81500.0,data analyst,senior,Markham,Allstate Canada,10000+ employees,Company - Public,0,0,1,0,0,0,0
+81500.0,data analyst,senior,Richmond,ZE Power Engineering,1 to 50 employees,Company - Private,0,0,1,0,0,0,1
+81500.0,data scientist,senior,Markham,Aviva,10000+ employees,Company - Public,0,0,0,0,0,0,0
+90500.0,statistician,unspecified,Charlottetown,Genius Sports Media,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,0
+90500.0,data analyst,unspecified,Waterloo,Ontario Teachers Insurance Plan,501 to 1000 employees,Non-profit Organisation,0,0,1,0,0,0,1
+90500.0,statistician,junior,Fredericton,Avrij Analytics Inc.,1 to 50 employees,Company - Private,1,0,0,1,0,1,1
+90500.0,data analyst,senior,Montreal,Autodesk,5001 to 10000 employees,Company - Public,1,0,1,1,0,0,0
+90500.0,data analyst,unspecified,Ottawa,Natural Partners Fullscript,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+90500.0,statistician,unspecified,Vancouver,Precision For Value,1001 to 5000 employees,Company - Public,0,0,0,0,0,1,0
+90500.0,statistician,senior,Welwyn,Roche,10000+ employees,Company - Public,0,0,0,0,0,1,1
+90500.0,data scientist,unspecified,Vancouver,Asana,501 to 1000 employees,Company - Private,1,0,1,1,0,0,0
+90500.0,statistician,unspecified,Ottawa,Bank of Canada,1001 to 5000 employees,Government,1,0,1,1,0,0,1
+90500.0,data analyst,unspecified,Moncton,Syniti,501 to 1000 employees,Company - Private,0,0,1,0,0,1,1
+90500.0,data scientist,unspecified,Toronto,AIR MILES,501 to 1000 employees,Company - Private,1,0,1,1,0,0,0
+90500.0,statistician,unspecified,Toronto,Axiom Real-Time Metrics,51 to 200 employees,Unknown,0,0,0,0,0,1,0
+90500.0,data scientist,junior,Ottawa,Office of the Auditor General of Canada,501 to 1000 employees,Government,1,0,0,1,0,1,0
+90500.0,data analyst,unspecified,Halifax,Proposify,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+90500.0,data scientist,unspecified,Tiverton,Bruce Power,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,0
+90500.0,statistician,unspecified,Kirkland,IQVIA,10000+ employees,Company - Public,0,0,0,0,0,1,0
+90500.0,data analyst,unspecified,Vancouver,University of British Columbia,10000+ employees,College / University,0,0,0,0,0,0,1
+90500.0,data scientist,unspecified,Toronto,Rubikloud Technologies,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+90500.0,data scientist,unspecified,Toronto,Precision Nutrition,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+90500.0,data scientist,unspecified,Vancouver,AbCellera Biologics,51 to 200 employees,Company - Private,1,0,0,1,0,0,1
+90500.0,data analyst,junior,Victoria,Kano/Apps,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+90500.0,data analyst,unspecified,Vancouver,AltisHR,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+90500.0,data analyst,unspecified,Ottawa,Natural Partners Fullscript,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+90500.0,data scientist,unspecified,Vancouver,BrainStation,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+90500.0,data scientist,unspecified,Quebec,SomaDetect,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+90500.0,data analyst,unspecified,Regina,GasBuddy,51 to 200 employees,Company - Private,1,0,1,1,0,1,1
+90500.0,data scientist,unspecified,Montreal,Zesty.ai,1 to 50 employees,Company - Private,0,0,1,0,1,1,0
+90500.0,data scientist,unspecified,Ottawa,Canadian Security Intelligence Service,1 to 50 employees,Government,1,0,0,1,0,0,0
+90500.0,data scientist,unspecified,Toronto,Paytm Labs,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+67000.0,data analyst,unspecified,Toronto,Drop,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+67000.0,data scientist,unspecified,Toronto,Nielsen,10000+ employees,Company - Public,1,0,1,1,0,0,1
+67000.0,data analyst,unspecified,Sault Ste. Marie,Algoma Public Health,1 to 50 employees,Government,0,0,0,0,0,0,1
+67000.0,data analyst,unspecified,Montreal,Data Sciences Inc.,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+67000.0,data scientist,unspecified,Edmonton,The Headhunters,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+67000.0,statistician,unspecified,Edmonton,Alberta Health Services,10000+ employees,Hospital,0,0,1,0,0,1,0
+67000.0,data analyst,unspecified,Victoria,INgrooves Music Group,51 to 200 employees,Company - Private,1,0,0,1,0,0,1
+67000.0,data scientist,unspecified,Montreal,Delan,1 to 50 employees,Company - Private,1,0,0,1,0,0,0
+67000.0,data scientist,unspecified,Toronto,Assurance Careers,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+67000.0,data scientist,unspecified,Toronto,Knowtions Research,Unknown,Company - Private,1,0,1,1,0,1,0
+67000.0,data analyst,unspecified,Ottawa,Fujitsu,10000+ employees,Company - Public,0,0,0,0,0,0,0
+67000.0,data scientist,unspecified,Calgary,MobSquad,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+67000.0,data scientist,unspecified,Vancouver,Thrive Health,1 to 50 employees,Company - Private,0,0,0,0,0,0,1
+67000.0,data analyst,unspecified,Edmonton,City of Edmonton,5001 to 10000 employees,Government,1,0,1,1,0,0,1
+67000.0,data scientist,unspecified,Ottawa,Bank of Canada,1001 to 5000 employees,Government,1,0,1,1,0,0,0
+67000.0,data scientist,unspecified,Oakville,Geotab,1001 to 5000 employees,Company - Private,1,0,1,1,1,0,1
+67000.0,data scientist,unspecified,Canada,Jungle Scout,51 to 200 employees,Company - Private,1,0,1,1,1,0,0
+67000.0,data scientist,unspecified,Victoria,INgrooves Music Group,51 to 200 employees,Company - Private,1,0,0,1,0,0,1
+67000.0,data scientist,unspecified,Markham,Aviva,10000+ employees,Company - Public,1,0,0,1,0,0,0
+67000.0,data analyst,unspecified,Edmonton,Systematix,501 to 1000 employees,Company - Private,0,0,0,0,0,0,0
+67000.0,data scientist,unspecified,Vancouver,Electronic Arts,5001 to 10000 employees,Company - Public,1,0,1,1,0,0,0
+67000.0,data scientist,junior,Moncton,Fiddlehead,1 to 50 employees,Company - Public,1,0,0,1,0,0,0
+67000.0,data scientist,unspecified,Ottawa,Accedian Networks,201 to 500 employees,Company - Private,1,0,0,1,0,1,1
+67000.0,data analyst,junior,Calgary,Fircroft,501 to 1000 employees,Company - Private,0,0,0,0,0,0,1
+67000.0,actuarial analyst,unspecified,North Vancouver,ICBC (Canada),5001 to 10000 employees,Government,0,0,1,0,0,1,1
+67000.0,data analyst,unspecified,Saskatoon,Vendasta Technologies,201 to 500 employees,Company - Private,0,0,1,0,0,0,0
+67000.0,data analyst,unspecified,Halifax,AXIS Insurance,51 to 200 employees,Company - Private,0,0,1,0,0,0,1
+67000.0,data scientist,unspecified,Toronto,Waterfront International,1 to 50 employees,Company - Private,0,0,0,0,0,0,0
+55500.0,data analyst,senior,Montreal,Unity Technologies,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,1
+55500.0,data scientist,unspecified,Toronto,NorthOne,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+55500.0,data scientist,unspecified,Vancouver,Amazon,10000+ employees,Company - Public,1,0,0,1,0,0,1
+55500.0,data analyst,unspecified,Mississauga,NCRI,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+55500.0,data analyst,unspecified,Halifax,AXIS Capital,1001 to 5000 employees,Company - Public,0,0,1,0,0,0,1
+55500.0,data scientist,unspecified,Canada,Liquid Analytics,1 to 50 employees,Company - Private,1,0,0,1,0,0,0
+55500.0,data analyst,unspecified,Vancouver,Providence Health Care,5001 to 10000 employees,Hospital,0,0,0,0,0,1,1
+55500.0,data scientist,intern,Ottawa,Ciena,5001 to 10000 employees,Company - Public,1,0,1,1,0,0,0
+55500.0,data scientist,unspecified,Vancouver,Aquatic Informatics,51 to 200 employees,Company - Private,1,0,0,1,1,0,1
+55500.0,data analyst,unspecified,Mississauga,Citi,10000+ employees,Company - Public,1,0,1,1,0,0,1
+55500.0,data scientist,unspecified,Montreal,MindGeek Careers,1001 to 5000 employees,Company - Private,1,0,1,1,1,0,0
+55500.0,data scientist,unspecified,Newmarket,York Region,1001 to 5000 employees,Government,1,0,1,1,0,0,1
+55500.0,data analyst,unspecified,Montreal,Banque Nationale du Canada,10000+ employees,Company - Public,0,0,0,0,0,0,0
+55500.0,data scientist,unspecified,Montreal,DRW Trading Group,1001 to 5000 employees,Company - Private,1,0,1,1,1,0,1
+55500.0,data analyst,unspecified,Vancouver,Flowmotion Entertainment,1 to 50 employees,Company - Private,0,0,1,0,0,0,1
+55500.0,data scientist,unspecified,Montreal,Behaviour Interactive,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+55500.0,data scientist,unspecified,Vancouver,"Connor, Clark & Lunn Financial Group",201 to 500 employees,Company - Private,0,0,0,0,0,0,0
+55500.0,data scientist,unspecified,Brampton,Joe Fresh,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,0,0
+55500.0,data scientist,unspecified,Calgary,Replicon,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+55500.0,data analyst,unspecified,Cochin,Prevalent AI,Unknown,Company - Private,1,0,0,1,0,0,1
+55500.0,data scientist,unspecified,Vancouver,FORM,1 to 50 employees,Company - Private,1,0,0,1,0,0,0
+55500.0,data analyst,unspecified,Markham,Max Advanced Brakes,1 to 50 employees,Company - Private,0,0,1,0,0,0,1
+55500.0,data analyst,unspecified,Burnaby,PHSA,10000+ employees,Non-profit Organisation,0,0,0,0,0,1,1
+55500.0,data analyst,intern,Halifax,RBC,10000+ employees,Company - Public,0,0,1,0,0,0,1
+55500.0,data scientist,unspecified,Waterloo,NCC Group,1001 to 5000 employees,Company - Public,1,0,0,1,0,0,0
+55500.0,data scientist,unspecified,Mississauga,Blackberry,1001 to 5000 employees,Company - Public,1,0,0,1,0,0,0
+55500.0,data analyst,unspecified,Ontario,IQVIA,10000+ employees,Company - Public,0,0,1,0,0,1,1
+55500.0,data analyst,unspecified,Calgary,Vantix Systems,1 to 50 employees,Company - Private,1,0,1,1,0,0,0
+56000.0,data analyst,unspecified,Toronto,Jam City,501 to 1000 employees,Company - Private,0,0,1,0,0,0,0
+56000.0,data analyst,unspecified,Mississauga,ITAC,1 to 50 employees,Non-profit Organisation,0,0,0,0,0,0,1
+56000.0,data analyst,senior,Toronto,shopkick,51 to 200 employees,Company - Private,1,0,0,1,0,0,1
+56000.0,data analyst,unspecified,Toronto,"Beutel, Goodman & Company Ltd.",Unknown,Private Practice / Firm,0,0,1,0,0,0,1
+56000.0,data scientist,unspecified,Toronto,AllianceData,10000+ employees,Company - Public,1,0,1,1,0,0,0
+56000.0,data analyst,unspecified,Etobicoke,Moneris Solutions Corporation,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,0
+56000.0,data analyst,unspecified,Toronto,Veeva Systems,1001 to 5000 employees,Company - Public,0,0,0,0,0,0,1
+56000.0,data scientist,unspecified,Mississauga,Citi,10000+ employees,Company - Public,1,0,0,1,1,0,0
+56000.0,data scientist,unspecified,Paris (France),Danone,10000+ employees,Company - Public,1,0,1,1,0,0,1
+56000.0,data scientist,unspecified,Mississauga,Citibank,5001 to 10000 employees,Subsidiary or Business Segment,1,0,0,1,1,0,0
+56000.0,data analyst,unspecified,Vancouver,Electronic Arts,5001 to 10000 employees,Company - Public,0,1,1,0,0,0,1
+56000.0,data analyst,unspecified,Toronto,College of Physicians and Surgeons of Ontario,201 to 500 employees,College / University,1,0,1,1,0,1,0
+56000.0,data scientist,senior,Montreal,Hopper,501 to 1000 employees,Company - Private,0,0,1,0,0,1,0
+56000.0,data analyst,unspecified,Vancouver,CLOUSEAU ANALYTICS,Unknown,Company - Private,0,0,1,0,0,1,1
+56000.0,data scientist,unspecified,Montreal,Eidos Montreal,201 to 500 employees,Company - Public,1,0,0,1,0,0,1
+56000.0,data scientist,unspecified,Toronto,MaxSys,1 to 50 employees,Contract,0,0,0,0,0,0,0
+56000.0,data scientist,unspecified,Toronto,Clearbanc,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+56000.0,statistician,senior,Mississauga,IQVIA,10000+ employees,Company - Public,0,0,0,0,0,1,0
+56000.0,data scientist,unspecified,Toronto,RBC,10000+ employees,Company - Public,1,0,1,1,0,0,0
+56000.0,data analyst,unspecified,Vancouver,Thinkingbox,1 to 50 employees,Company - Private,0,0,1,0,0,0,0
+56000.0,data analyst,unspecified,Saint-Hubert,Techo-Bloc,201 to 500 employees,Company - Private,1,0,1,1,0,0,1
+56000.0,data analyst,unspecified,Montreal,Desjardins,10000+ employees,Company - Private,0,0,0,0,0,0,0
+56000.0,data scientist,unspecified,Toronto,Cerebri AI,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+56000.0,data analyst,unspecified,Toronto,theScore,201 to 500 employees,Company - Public,1,0,1,1,0,0,1
+56000.0,data scientist,unspecified,Calgary,NDAX INC,1 to 50 employees,Company - Public,1,0,0,1,0,0,0
+56000.0,data analyst,intern,Montreal,Square Enix Montreal,1001 to 5000 employees,Company - Public,1,0,1,1,0,0,1
+56000.0,data scientist,unspecified,Moncton,Fiddlehead,1 to 50 employees,Company - Public,1,0,0,1,0,0,0
+56000.0,data scientist,unspecified,Toronto,Blackhawk Network,1001 to 5000 employees,Company - Private,1,0,0,1,1,0,1
+59000.0,data analyst,unspecified,Montreal,Square Enix Co.,1001 to 5000 employees,Company - Public,1,0,1,1,0,0,1
+59000.0,data scientist,unspecified,Richmond Hill,Wysdom.AI,51 to 200 employees,Company - Private,1,0,1,1,1,0,1
+59000.0,data analyst,unspecified,Toronto,Maxima Consulting,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+59000.0,data analyst,senior,Ottawa,CHEO,1001 to 5000 employees,Hospital,0,0,0,0,0,1,1
+59000.0,data scientist,unspecified,Vancouver,KoBold Metals,Unknown,Company - Public,1,0,1,1,0,0,0
+59000.0,data analyst,unspecified,Toronto,Family Service Toronto,51 to 200 employees,Non-profit Organisation,0,0,1,0,0,0,1
+59000.0,data analyst,unspecified,Vancouver,MacroHealth,1 to 50 employees,Company - Private,0,0,1,0,0,0,1
+59000.0,data analyst,unspecified,Vancouver,Electronic Arts,5001 to 10000 employees,Company - Public,1,0,1,1,0,0,1
+59000.0,data analyst,unspecified,Vancouver,Electronic Arts,5001 to 10000 employees,Company - Public,0,0,0,0,0,0,0
+59000.0,data analyst,unspecified,Ottawa,QSI Inc,1 to 50 employees,Company - Private,0,0,0,0,0,0,1
+59000.0,data scientist,unspecified,Montreal,Services Conseils IntelliSoft,Unknown,Company - Private,1,0,0,1,0,0,1
+59000.0,data analyst,unspecified,Regina,CCS Professional Services,1 to 50 employees,Company - Public,0,0,0,0,0,0,0
+59000.0,data analyst,unspecified,Mississauga,Peel District School Board,10000+ employees,School / School District,1,0,0,1,0,0,1
+59000.0,data analyst,unspecified,Toronto,Tucows,501 to 1000 employees,Company - Public,1,0,1,1,0,0,1
+59000.0,data analyst,unspecified,Toronto,Sunnybrook Health Sciences Centre,5001 to 10000 employees,Hospital,0,0,0,0,0,0,1
+59000.0,data scientist,unspecified,Waterloo,"LotusFlare, Inc.",51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+59000.0,data analyst,unspecified,Richmond,PressReader,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+59000.0,statistician,unspecified,Vancouver,Precision Value & Health,501 to 1000 employees,Company - Private,0,0,0,0,0,1,0
+59000.0,data scientist,senior,Vancouver,Visier Solutions Inc.,201 to 500 employees,Company - Private,1,0,0,1,0,0,1
+59000.0,data analyst,unspecified,Montreal,Mino Games,1 to 50 employees,Company - Public,1,0,1,1,0,0,1
+59000.0,data analyst,unspecified,Laval,Linen Chest,501 to 1000 employees,Company - Private,0,0,0,0,0,0,1
+59000.0,data analyst,unspecified,Toronto,Lucova,1 to 50 employees,Company - Public,0,0,1,0,0,0,1
+59000.0,actuarial analyst,unspecified,Toronto,SSQ Assurance,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,1
+59000.0,data scientist,unspecified,Toronto,IFG Project Resourcing,501 to 1000 employees,Subsidiary or Business Segment,1,0,1,1,0,0,0
+54500.0,data scientist,unspecified,Toronto,Home Trust,501 to 1000 employees,Company - Public,1,0,0,1,0,0,1
+54500.0,data scientist,unspecified,Montreal,Square Enix Co.,1001 to 5000 employees,Company - Public,1,0,0,1,0,0,1
+54500.0,actuarial analyst,unspecified,Montreal,Manulife,10000+ employees,Company - Public,0,0,0,0,0,0,1
+54500.0,data scientist,unspecified,Montreal,Unity Technologies,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,0
+54500.0,data scientist,unspecified,Canada,Awakedata,Unknown,Company - Private,1,0,1,1,0,0,1
+54500.0,data scientist,unspecified,Toronto,Eagle Professional Resources,51 to 200 employees,Company - Private,1,0,0,1,1,1,0
+54500.0,data analyst,unspecified,Chatham,Chatham-Kent Health Alliance,501 to 1000 employees,Non-profit Organisation,0,0,1,0,0,0,1
+54500.0,data analyst,unspecified,Upper Canada Village,RBC,10000+ employees,Company - Public,1,0,1,1,0,0,1
+54500.0,data scientist,unspecified,Toronto,TD Bank,10000+ employees,Company - Public,0,0,0,0,0,0,0
+54500.0,data scientist,senior,Mississauga,Savormetrics,1 to 50 employees,Company - Private,0,0,0,0,0,0,0
+54500.0,data scientist,unspecified,Toronto,MobileComm Professionals,501 to 1000 employees,Company - Private,1,0,1,1,1,1,0
+54500.0,data analyst,unspecified,Mississauga,OSL Retail Services,5001 to 10000 employees,Company - Private,0,0,1,0,0,1,1
+54500.0,data analyst,unspecified,Essex,Libro Credit Union,501 to 1000 employees,Company - Private,1,0,1,1,0,1,0
+54500.0,data analyst,senior,Kingston,Talentlab,1 to 50 employees,Company - Private,0,0,0,0,0,0,1
+54500.0,data analyst,unspecified,Calgary,Trans Mountain Corporation Inc.,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+54500.0,data scientist,unspecified,Brampton,Loblaw,10000+ employees,Company - Public,1,0,1,1,0,0,0
+54500.0,data analyst,unspecified,Vancouver,Mountain Equipment Co-op,1001 to 5000 employees,Other Organisation,1,0,1,1,0,0,1
+54500.0,data analyst,unspecified,Mississauga,Investment Planning Counsel,201 to 500 employees,Company - Private,1,0,1,1,0,1,1
+54500.0,data analyst,unspecified,Montreal,Infotree Service Inc,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+54500.0,data scientist,unspecified,Montreal,CAE,10000+ employees,Company - Public,1,0,0,1,0,0,1
+54500.0,data analyst,unspecified,Toronto,Sunnybrook Health Sciences Centre,5001 to 10000 employees,Hospital,0,0,0,0,0,0,1
+54500.0,data scientist,unspecified,Welwyn,Roche,10000+ employees,Company - Public,0,0,0,0,0,0,1
+54500.0,data scientist,unspecified,Ottawa,GBatteries,1 to 50 employees,Company - Private,1,0,0,1,1,0,0
+54500.0,data scientist,unspecified,Montreal,MegaZebra GmbH,1 to 50 employees,Other Organisation,0,1,1,0,0,0,0
+54500.0,data analyst,unspecified,Montreal,Banque Nationale du Canada,10000+ employees,Company - Public,0,0,0,0,0,0,0
+54500.0,data analyst,senior,Brampton,Loblaw Companies Limited,10000+ employees,Company - Public,1,0,1,1,0,1,1
+54500.0,data analyst,unspecified,Saint-Hubert,Techo-Bloc,201 to 500 employees,Company - Private,1,0,1,1,0,0,1
+68000.0,data analyst,senior,Toronto,Cover,51 to 200 employees,Self-employed,1,0,1,1,0,0,0
+68000.0,data scientist,senior,Ottawa,SurveyMonkey,1001 to 5000 employees,Company - Public,1,0,0,1,1,0,1
+68000.0,data scientist,senior,Toronto,RBC,10000+ employees,Company - Public,1,0,0,1,0,0,0
+68000.0,actuarial analyst,intern,Toronto,RBC,10000+ employees,Company - Public,1,0,1,1,0,1,1
+68000.0,data analyst,unspecified,British Columbia,Finesse-Tech,51 to 200 employees,Company - Private,0,0,1,0,0,1,1
+68000.0,actuarial analyst,unspecified,Toronto,RBC,10000+ employees,Company - Public,0,0,0,0,0,1,1
+68000.0,data scientist,unspecified,Markham,Scarsin,51 to 200 employees,Company - Private,0,0,0,0,0,0,1
+68000.0,data analyst,unspecified,Montreal,ODESIA,51 to 200 employees,Company - Private,0,0,0,0,0,0,0
+68000.0,data analyst,unspecified,Kitchener,Grand River Hospital,1001 to 5000 employees,Hospital,0,0,0,0,0,0,1
+68000.0,data analyst,unspecified,Vancouver,PHSA,10000+ employees,Non-profit Organisation,0,0,0,0,0,1,1
+68000.0,data analyst,unspecified,Burnaby,Provincial Health Services Authority,10000+ employees,Non-profit Organisation,0,0,0,0,0,1,0
+68000.0,data analyst,unspecified,Vancouver,Provincial Health Services Authority,10000+ employees,Non-profit Organisation,0,0,0,0,0,1,1
+68000.0,data scientist,unspecified,Ottawa,CGI,10000+ employees,Company - Public,1,0,1,1,0,1,0
+68000.0,data analyst,unspecified,Montreal,emergiTEL Inc.,201 to 500 employees,Company - Private,1,0,1,1,0,0,1
+68000.0,data scientist,senior,Brampton,Joe Fresh,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,0,1
+68000.0,data analyst,senior,Mississauga,Citi,10000+ employees,Company - Public,1,0,1,1,0,0,1
+68000.0,data analyst,senior,Mississauga,Citibank,5001 to 10000 employees,Subsidiary or Business Segment,1,0,1,1,0,0,1
+68000.0,data scientist,unspecified,Vancouver,Teck Resources Limited,5001 to 10000 employees,Company - Public,0,0,0,0,0,0,1
+68000.0,data analyst,senior,Vancouver,Electronic Arts,5001 to 10000 employees,Company - Public,1,0,1,1,0,0,1
+68000.0,data scientist,senior,Markham,Aviva,10000+ employees,Company - Public,1,0,0,1,0,0,0
+68000.0,data analyst,unspecified,Toronto,Sunnybrook Health Sciences Centre,5001 to 10000 employees,Hospital,0,0,0,0,0,0,1
+68000.0,data analyst,unspecified,Toronto,Sunnybrook Health Sciences Centre,5001 to 10000 employees,Hospital,0,0,0,0,0,0,1
+68000.0,data analyst,unspecified,Kitchener,Grand River Hospital,1001 to 5000 employees,Hospital,0,0,0,0,0,0,1
+68000.0,data scientist,senior,Saskatoon,Vendasta Technologies,201 to 500 employees,Company - Private,0,0,1,0,0,0,0
+68000.0,data analyst,unspecified,Montreal,Bethesda Game Studios,51 to 200 employees,Subsidiary or Business Segment,1,0,1,1,0,0,1
+68000.0,data analyst,unspecified,Toronto,DDB,10000+ employees,Subsidiary or Business Segment,1,0,1,1,0,1,0
+68000.0,data analyst,unspecified,Mississauga,Citibank,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,1
+68000.0,data analyst,senior,Toronto,Rubikloud Technologies,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+109500.0,data analyst,unspecified,Mississauga,NCRI,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+109500.0,data scientist,senior,Welwyn,Roche,10000+ employees,Company - Public,1,0,1,1,0,0,1
+109500.0,data scientist,senior,Toronto,Rubikloud Technologies,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+109500.0,data analyst,unspecified,Montreal,Eagle Professional Resources,51 to 200 employees,Company - Private,0,0,1,0,0,0,1
+109500.0,data scientist,unspecified,Toronto,ASSURANCE,501 to 1000 employees,Company - Private,1,0,1,1,0,0,1
+109500.0,data scientist,senior,Montreal,Unity Technologies,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,0
+109500.0,data scientist,senior,Toronto,Fusion Analytics,1 to 50 employees,Company - Private,1,0,0,1,0,0,1
+109500.0,data analyst,unspecified,Toronto,BMO Financial Group,10000+ employees,Company - Public,1,0,1,1,0,1,0
+109500.0,data scientist,senior,Brampton,Loblaw Companies Limited,10000+ employees,Company - Public,1,0,1,1,0,0,0
+109500.0,data scientist,senior,Montreal,ESI Technologies,51 to 200 employees,Company - Private,1,0,1,1,1,0,1
+109500.0,data scientist,unspecified,Montreal,Eidos Montréal,201 to 500 employees,Company - Public,1,0,0,1,0,0,1
+109500.0,data analyst,senior,Toronto,PC Financial,51 to 200 employees,Company - Private,0,0,1,0,0,1,0
+109500.0,actuarial analyst,senior,Toronto,Zurich Insurance Group,10000+ employees,Company - Public,0,0,0,0,0,0,0
+109500.0,data analyst,unspecified,Concord,Bailey Metal Products Ltd,201 to 500 employees,Company - Private,0,0,1,0,0,0,1
+109500.0,data analyst,unspecified,Toronto,CI Financial,1001 to 5000 employees,Company - Public,1,0,1,1,0,0,1
+109500.0,data scientist,unspecified,Vancouver,IT IQ TECH RECRUITERS LTD,1 to 50 employees,Company - Private,0,0,0,0,0,0,0
+109500.0,data scientist,senior,Woodbridge,Fuze HR Solutions,51 to 200 employees,Company - Private,1,0,0,1,0,1,0
+109500.0,data analyst,senior,Brampton,Joe Fresh,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,1,1
+109500.0,data scientist,unspecified,Toronto,BMO Financial Group,10000+ employees,Company - Public,1,0,1,1,0,1,0
+109500.0,data scientist,senior,Toronto,Manulife,10000+ employees,Company - Public,1,0,1,1,0,1,0
+109500.0,data analyst,senior,Montreal,Banque Nationale du Canada,10000+ employees,Company - Public,0,0,0,0,0,0,0
+109500.0,data scientist,senior,Montreal,SSENSE,501 to 1000 employees,Company - Private,1,0,1,1,0,0,1
+109500.0,data scientist,senior,Toronto,Tonal,51 to 200 employees,Company - Private,1,0,0,1,0,0,0
+109500.0,data analyst,unspecified,Montreal,ZeniMax Media Inc.,201 to 500 employees,Company - Private,1,0,1,1,0,0,1
+109500.0,data scientist,senior,Vancouver,Resilient Management,1 to 50 employees,Company - Private,1,0,1,1,0,0,0
+109500.0,data scientist,senior,Toronto,Fusion Analytics,1 to 50 employees,Company - Private,1,0,0,1,0,0,1
+109500.0,data analyst,senior,Toronto,FreshBooks,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+109500.0,data scientist,senior,Montreal,Intact,10000+ employees,Company - Public,1,0,0,1,0,0,0
+52500.0,data analyst,unspecified,Montreal,Bethesda Game Studios,51 to 200 employees,Subsidiary or Business Segment,1,0,1,1,0,0,1
+52500.0,data analyst,unspecified,Toronto,DDB,10000+ employees,Subsidiary or Business Segment,1,0,1,1,0,1,0
+52500.0,data analyst,unspecified,Mississauga,Citibank,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,1
+52500.0,data analyst,senior,Toronto,Rubikloud Technologies,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+52500.0,data analyst,unspecified,Mississauga,NCRI,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+52500.0,data scientist,senior,Welwyn,Roche,10000+ employees,Company - Public,1,0,1,1,0,0,1
+52500.0,data scientist,senior,Toronto,Rubikloud Technologies,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+52500.0,data analyst,unspecified,Montreal,Eagle Professional Resources,51 to 200 employees,Company - Private,0,0,1,0,0,0,1
+52500.0,data scientist,unspecified,Vancouver,NumerixS Quant,Unknown,Company - Private,1,0,0,1,0,0,1
+52500.0,data scientist,senior,Montreal,Unity Technologies,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,0
+52500.0,data analyst,unspecified,Toronto,Recruiting For Less,Unknown,Company - Public,0,0,0,0,0,0,1
+52500.0,actuarial analyst,unspecified,London,Canada Life Assurance Company,10000+ employees,Company - Public,0,0,0,0,0,0,1
+52500.0,data analyst,unspecified,Newmarket,Util-Assist Inc.,51 to 200 employees,Company - Private,1,0,1,1,0,0,0
+52500.0,data analyst,unspecified,Surrey,Fraser Health,10000+ employees,Hospital,0,0,0,0,0,1,1
+52500.0,data scientist,unspecified,Toronto,ASSURANCE,501 to 1000 employees,Company - Private,1,0,1,1,0,0,1
+52500.0,data analyst,unspecified,Toronto,BMO Financial Group,10000+ employees,Company - Public,1,0,1,1,0,1,0
+52500.0,data scientist,senior,Toronto,Fusion Analytics,1 to 50 employees,Company - Private,1,0,0,1,0,0,1
+52500.0,actuarial analyst,unspecified,Cambridge,Gore Mutual Insurance Company,201 to 500 employees,Company - Private,0,0,0,0,0,0,1
+52500.0,data scientist,senior,Brampton,Loblaw Companies Limited,10000+ employees,Company - Public,1,0,1,1,0,0,0
+52500.0,data scientist,unspecified,Montreal,Eidos Montréal,201 to 500 employees,Company - Public,1,0,0,1,0,0,1
+52500.0,data scientist,senior,Montreal,ESI Technologies,51 to 200 employees,Company - Private,1,0,1,1,1,0,1
+52500.0,data analyst,senior,Toronto,PC Financial,51 to 200 employees,Company - Private,0,0,1,0,0,1,0
+52500.0,data analyst,unspecified,Maple Ridge,Lordco Parts Ltd.,1001 to 5000 employees,Company - Private,0,0,0,0,0,0,1
+52500.0,data analyst,unspecified,Ottawa,Canopy Growth Corporation,501 to 1000 employees,Company - Private,0,0,0,0,0,0,1
+52500.0,data analyst,unspecified,Concord,Bailey Metal Products Ltd,201 to 500 employees,Company - Private,0,0,1,0,0,0,1
+52500.0,actuarial analyst,senior,Toronto,Zurich Insurance Group,10000+ employees,Company - Public,0,0,0,0,0,0,0
+52500.0,actuarial analyst,unspecified,Waterloo,Heartland Farm Mutual Inc.,51 to 200 employees,Other Organisation,0,0,1,0,0,1,1
+52500.0,data analyst,senior,Vancouver,Aritzia,1001 to 5000 employees,Company - Public,0,0,1,0,0,0,0
+52500.0,data analyst,unspecified,Toronto,CI Financial,1001 to 5000 employees,Company - Public,1,0,1,1,0,0,1
+91000.0,data scientist,senior,Woodbridge,Fuze HR Solutions,51 to 200 employees,Company - Private,1,0,0,1,0,1,0
+91000.0,data scientist,unspecified,Toronto,TD Bank,10000+ employees,Company - Public,0,0,0,0,0,0,0
+91000.0,data scientist,unspecified,Vancouver,IT IQ TECH RECRUITERS LTD,1 to 50 employees,Company - Private,0,0,0,0,0,0,0
+91000.0,data scientist,unspecified,Toronto,BMO Financial Group,10000+ employees,Company - Public,1,0,1,1,0,1,0
+91000.0,data analyst,senior,Brampton,Joe Fresh,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,1,1
+91000.0,data scientist,senior,Toronto,Manulife,10000+ employees,Company - Public,1,0,1,1,0,1,0
+91000.0,data analyst,senior,Montreal,Banque Nationale du Canada,10000+ employees,Company - Public,0,0,0,0,0,0,0
+91000.0,data scientist,senior,Toronto,Tonal,51 to 200 employees,Company - Private,1,0,0,1,0,0,0
+91000.0,data scientist,senior,Montreal,SSENSE,501 to 1000 employees,Company - Private,1,0,1,1,0,0,1
+91000.0,data scientist,senior,Vancouver,Resilient Management,1 to 50 employees,Company - Private,1,0,1,1,0,0,0
+91000.0,data analyst,senior,Toronto,FreshBooks,201 to 500 employees,Company - Private,1,0,1,1,0,0,0
+91000.0,data analyst,unspecified,Montreal,ZeniMax Media Inc.,201 to 500 employees,Company - Private,1,0,1,1,0,0,1
+91000.0,data scientist,senior,Brampton,Joe Fresh,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,0,1
+91000.0,data scientist,senior,Toronto,Fusion Analytics,1 to 50 employees,Company - Private,1,0,0,1,0,0,1
+91000.0,data scientist,senior,Montreal,Intact,10000+ employees,Company - Public,1,0,0,1,0,0,0
+91000.0,data analyst,unspecified,Vancouver,AceIt Strategies!,1 to 50 employees,Unknown,0,0,0,0,0,0,0
+91000.0,statistician,senior,Kirkland,IQVIA,10000+ employees,Company - Public,0,0,0,0,0,1,1
+91000.0,data scientist,senior,Victoria,BC IMC,Unknown,Company - Private,1,0,1,1,0,1,1
+91000.0,data scientist,senior,Montreal,SSENSE,501 to 1000 employees,Company - Private,1,0,1,1,0,1,1
+91000.0,data scientist,senior,Brampton,Joe Fresh,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,0,0
+91000.0,data scientist,senior,Vancouver,Teck Resources Limited,5001 to 10000 employees,Company - Public,1,0,1,1,0,0,1
+91000.0,data scientist,senior,Brampton,Joe Fresh,201 to 500 employees,Subsidiary or Business Segment,1,0,1,1,0,0,0
+91000.0,data analyst,senior,Toronto,LifeLabs,1001 to 5000 employees,Company - Private,1,0,1,1,0,0,1
+110000.0,data scientist,senior,Vancouver,Unity Technologies,1001 to 5000 employees,Company - Private,1,0,0,1,1,0,0
+110000.0,data scientist,senior,Montreal,DRW,1001 to 5000 employees,Company - Private,1,0,1,1,1,0,1
+110000.0,data scientist,senior,Toronto,Manulife,10000+ employees,Company - Public,1,0,1,1,0,1,1
+110000.0,actuarial analyst,unspecified,Toronto,CAAT Pension Plan,51 to 200 employees,Company - Private,0,0,0,0,0,0,0
+110000.0,data analyst,senior,Mississauga,Citi,10000+ employees,Company - Public,0,0,0,0,0,0,0
+110000.0,data analyst,senior,Mississauga,Citibank,5001 to 10000 employees,Subsidiary or Business Segment,0,0,0,0,0,0,0
+110000.0,actuarial analyst,senior,Markham,Allstate Canada,10000+ employees,Company - Public,0,0,1,0,0,1,1
+110000.0,data scientist,senior,Toronto,Manulife,10000+ employees,Company - Public,1,0,1,1,0,1,1
+110000.0,data scientist,senior,Welwyn,Roche,10000+ employees,Company - Public,0,0,0,0,0,0,1
+110000.0,actuarial analyst,unspecified,Toronto,HUB International,10000+ employees,Company - Private,0,0,1,0,0,1,1
+110000.0,data analyst,senior,Mississauga,BMO Financial Group,10000+ employees,Company - Public,1,0,0,1,0,1,1
+110000.0,data analyst,unspecified,Vancouver,IT IQ TECH RECRUITERS LTD,1 to 50 employees,Company - Private,0,0,0,0,0,1,1
+110000.0,data analyst,unspecified,Vancouver,IT IQ TECH RECRUITERS LTD,1 to 50 employees,Company - Private,0,0,1,0,0,0,1
+110000.0,data scientist,senior,Quebec,Intact,10000+ employees,Company - Public,1,0,0,1,0,0,1
+110000.0,data scientist,senior,Brampton,Loblaw Companies Limited,10000+ employees,Company - Public,1,0,1,1,0,0,1
+110000.0,data scientist,senior,Toronto,GALE Partners,201 to 500 employees,Company - Private,1,0,1,1,1,0,1
+110000.0,data scientist,senior,Toronto,Canadian Tire Corporation,5001 to 10000 employees,Company - Public,1,0,1,1,0,0,0
+110000.0,actuarial analyst,unspecified,Montreal,Northbridge Financial Corporation,1001 to 5000 employees,Subsidiary or Business Segment,0,0,0,0,0,1,1
+110000.0,data scientist,senior,Markham,Aviva,10000+ employees,Company - Public,0,0,0,0,0,0,0
+110000.0,data scientist,senior,Welwyn,Roche,10000+ employees,Company - Public,0,0,0,0,0,0,1
+110000.0,data scientist,unspecified,Toronto,Xero,1001 to 5000 employees,Company - Public,1,0,0,1,0,0,1
+110000.0,data analyst,senior,Vancouver,Kabam,201 to 500 employees,Company - Private,0,0,1,0,0,0,0
+110000.0,data analyst,senior,Richmond,ZE Power Engineering,1 to 50 employees,Company - Private,0,0,1,0,0,0,1
+110000.0,data scientist,senior,Toronto,Atmosphere,1 to 50 employees,Company - Public,1,0,1,1,0,0,0
+110000.0,actuarial analyst,senior,Markham,Aviva,10000+ employees,Company - Public,1,0,1,1,0,1,1
+110000.0,data analyst,senior,Toronto,Maxima Consulting,51 to 200 employees,Company - Private,1,0,1,1,0,0,1
+80500.0,data scientist,senior,Vancouver,IT IQ TECH RECRUITERS LTD,1 to 50 employees,Company - Private,1,0,1,1,0,0,1
+80500.0,data scientist,unspecified,Stouffville,Scentroid,1 to 50 employees,Company - Private,1,0,0,1,0,0,0
+80500.0,data scientist,senior,Vancouver,Global Relay,201 to 500 employees,Company - Private,1,0,0,1,0,0,0
+80500.0,actuarial analyst,unspecified,Thornhill,CAA South Central Ontario,1001 to 5000 employees,Non-profit Organisation,0,0,0,0,0,1,1
+80500.0,data scientist,senior,Welwyn,Roche,10000+ employees,Company - Public,0,0,0,0,0,0,1
+80500.0,actuarial analyst,unspecified,Toronto,Northbridge Financial Corporation,1001 to 5000 employees,Subsidiary or Business Segment,0,0,0,0,0,1,1
+80500.0,actuarial analyst,senior,Toronto,Zurich,Unknown,Company - Public,0,0,0,0,0,0,0
+80500.0,data analyst,senior,Toronto,Thinkingbox,1 to 50 employees,Company - Private,0,0,1,0,0,0,0
+80500.0,data scientist,senior,Brampton,Loblaw Companies Limited,10000+ employees,Company - Public,1,0,1,1,0,0,1
+80500.0,data scientist,senior,Brampton,Loblaw Companies Limited,10000+ employees,Company - Public,1,0,1,1,0,0,0
+80500.0,data scientist,senior,Brampton,Loblaw Companies Limited,10000+ employees,Company - Public,1,0,1,1,0,0,0
+80500.0,data scientist,senior,Woodbridge,407 ETR,201 to 500 employees,Company - Private,1,0,0,1,0,1,0
+80500.0,data analyst,senior,Brampton,Loblaw,10000+ employees,Company - Public,1,0,1,1,0,1,1
+80500.0,data scientist,senior,Vancouver,Global Relay,201 to 500 employees,Company - Private,1,0,0,1,0,0,1
+80500.0,actuarial analyst,senior,Anjou,Intact,10000+ employees,Company - Public,1,0,0,1,0,1,0
