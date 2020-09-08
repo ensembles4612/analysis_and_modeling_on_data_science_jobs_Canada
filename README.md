@@ -6,33 +6,13 @@
 * Built salary prediction models for various positions within data analysis area in Canada using LASSO (MAE ~ $16k), Random Forest (MAE ~ $18k) and SVM (MAE ~ $16k)  
 * Deployed SVM model as a salary estimator on the website(https://salary-estimator-shelley.herokuapp.com/) using Flask and Heroku 
 * Scraped over 1000 job listings from Glassdoor using python and selenium
+####################################################
 * Cleaned and Visualized data   
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-
-## Code and Resources 
-**Python Version:** 3.7  
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle  
-**For Web Framework Requirements:**  ```pip install -r requirements.txt```  
-**Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium  
-**Scraper Article:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905  
-**Flask Productionization:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-82012605
 
 ## Web Scraping
 Tweaked the web scraper github repo (above) to scrape 1000 job postings from glassdoor.com. With each job, we got the following:
 *	Job title
-*	Salary Estimate
-*	Job Description
-*	Rating
-*	Company 
-*	Location
-*	Company Headquarters 
-*	Company Size
-*	Company Founded Date
-*	Type of Ownership 
-*	Industry
-*	Sector
-*	Revenue
-*	Competitors 
 
 ## Data Cleaning
 After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
@@ -49,7 +29,6 @@ After scraping the data, I needed to clean it up so that it was usable for our m
     * R  
     * Excel  
     * AWS  
-    * Spark 
 *	Column for simplified job title and Seniority 
 *	Column for description length 
 
@@ -73,9 +52,9 @@ I tried three different models:
 
 ## Model performance
 The Random Forest model far outperformed the other approaches on the test and validation sets. 
-*	**Random Forest** : MAE = 11.22
-*	**Linear Regression**: MAE = 18.86
-*	**Ridge Regression**: MAE = 19.67
+*	**Lasso Regression** : MAE = 11.22
+*	**Random Forest**: MAE = 18.86
+*	**Support Vector Regressor**: MAE = 19.67
 
 ## Productionization 
 In this step, I built a flask API endpoint that was hosted on a local webserver by following along with the TDS tutorial in the reference section above. The API endpoint takes in a request with a list of values from a job listing and returns an estimated salary. 
