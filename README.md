@@ -1,36 +1,32 @@
 # Analysis on Data Science Jobs in Canada with Salary Prediction Flask API
 
-
-## Project Overview 
+## Project Highlights
 
 * Built salary prediction models for various positions within data analysis area in Canada using LASSO (MAE ~ $16k), Random Forest (MAE ~ $18k) and SVM (MAE ~ $16k)  
-* Deployed SVM model as a salary estimator on the website(https://salary-estimator-shelley.herokuapp.com/) using Flask and Heroku 
+* Deployed SVM model as a salary estimator on this [website](https://salary-estimator-shelley.herokuapp.com/) using Flask and Heroku 
 * Scraped over 1000 job listings from Glassdoor using python and selenium
 ####################################################
 * Cleaned and Visualized data   
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 
 ## Web Scraping
-Tweaked the web scraper github repo (above) to scrape 1000 job postings from glassdoor.com. With each job, we got the following:
-*	Job title
+
+I adjusted the [web scraper](https://github.com/arapfaik/scraping-glassdoor-selenium) using Selenium to scrape the fulltime job postings from glassdoor.ca for 3 positions -- "data scientist", "data analyst" and "statistician" for a one-month period(2020-05-09 to 2020-06-09) respectively. With each job, I obtained the following: Job title, Salary Estimate, Job Description, Rating, Company Name, Location, Company Headquarters, Company Size, Company Founded Date, Type of Ownership, Industry, Sector, Revenue, Competitors 
+
 
 ## Data Cleaning
-After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
 
-*	Parsed numeric data out of salary 
-*	Made columns for employer provided salary and hourly wages 
-*	Removed rows without salary 
-*	Parsed rating out of company text 
-*	Made a new column for company state 
-*	Added a column for if the job was at the company’s headquarters 
-*	Transformed founded date into age of company 
-*	Made columns for if different skills were listed in the job description:
-    * Python  
-    * R  
-    * Excel  
-    * AWS  
-*	Column for simplified job title and Seniority 
-*	Column for description length 
+After data scraping, I did some cleaning before building the models for salary prediction as follows:
+*  Combined 3 datasets and deleted the duplicate rows
+*	Parsed numeric data out of Salary
+*  Removed rows with NAs in Salary and created column Average Salary 
+*	Removed Rating from Company Name text 
+*	Transformed Founded date into Company Age
+*  Transformed scraped similar job titles into one simplified job title for all positions
+*  Created column Seniority from Job Title
+*  Created column Job Description Length from Job Description
+*	Created columns for if different skills were listed in Job Description: Python, RStudio, Excel, AWS, SAS, Pytorch, sql
+ 
 
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
