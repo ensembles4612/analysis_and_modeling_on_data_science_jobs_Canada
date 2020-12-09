@@ -31,9 +31,21 @@ After data scraping, I did some cleaning before building the models for salary p
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/salary_by_job_title.PNG "Salary by Position")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Job Opportunities by State")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlations")
+![alt text](https://github.com/ensembles4612/analysis_and_modeling_on_data_science_jobs_Canada/blob/master/wordcloud_img/%23job_postings_by_date.png "job_postings_by_date")
+![alt text](https://github.com/ensembles4612/analysis_and_modeling_on_data_science_jobs_Canada/blob/master/wordcloud_img/%23jobs_by_seniority.png "jobs_by_seniority")
+![alt text](https://github.com/ensembles4612/analysis_and_modeling_on_data_science_jobs_Canada/blob/master/wordcloud_img/boxplot_for_salary_by_job_title(color%3Dseniority).png "boxplot_for_salary_by_job_title")
+![alt text](https://github.com/ensembles4612/analysis_and_modeling_on_data_science_jobs_Canada/blob/master/wordcloud_img/tools_mentioned_in_job_discription(%25).png "tools_mentioned_in_job_discription(%)")
+<img align="left" width="450" height="550" src="https://github.com/ensembles4612/analysis_and_modeling_on_data_science_jobs_Canada/blob/master/wordcloud_img/top10_company_released_most_jobs_with_ratings.png">
+<img align="left" width="450" height="550" src="https://github.com/ensembles4612/analysis_and_modeling_on_data_science_jobs_Canada/blob/master/wordcloud_img/salary_and_%23jobs_by_sector_by_job_title.png">
+<img align="left" width="300" height="400" src="https://github.com/ensembles4612/analysis_and_modeling_on_data_science_jobs_Canada/blob/master/wordcloud_img/companys_with_rating_5.png">
+<p align="center">
+<img width="300" height="300" src="https://github.com/ensembles4612/analysis_and_modeling_on_data_science_jobs_Canada/blob/master/wordcloud_img/companys_with_rating_under_2.5.png">
+</p> 
+<img align="left" width="250" height="450" src="https://github.com/ensembles4612/analysis_and_modeling_on_data_science_jobs_Canada/blob/master/wordcloud_img/wordcloud_DataAnalyst.png">
+<img align="right" width="250" height="450" src="https://github.com/ensembles4612/analysis_and_modeling_on_data_science_jobs_Canada/blob/master/wordcloud_img/wordcloud_DataScientist.png">
+<p align="center">
+  <img width="250" height="450" src="https://github.com/ensembles4612/analysis_and_modeling_on_data_science_jobs_Canada/blob/master/wordcloud_img/wordcloud_Statistician.png">
+</p>
 
 ## Model Building 
 
