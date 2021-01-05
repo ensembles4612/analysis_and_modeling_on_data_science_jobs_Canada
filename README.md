@@ -6,7 +6,7 @@
 * Cleaned, Visualized and analyzed job listing data in a variaty of ways using  matplotlib, seaborn, wordcloud, etc.  
 * Built salary prediction models for various positions in data analysis area in Canada using Multivariate Linear, Lasso, Random Forest and SVM   
 * Fine-tuned Lasso, and Random Forest and SVM using GridsearchCV to achieve the best model (MAE ~ $16k)
-* Deployed SVM model as a salary estimator on [this website](https://salary-estimator-shelley.herokuapp.com/) using Flask and Heroku 
+* Deployed SVM model as a client-facing salary prediction tool on [this website](https://salary-estimator-shelley.herokuapp.com/) using Flask and Heroku 
 
 
 ## Web Scraping
