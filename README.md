@@ -8,10 +8,20 @@
 * Fine-tuned Lasso, and Random Forest and SVM using GridsearchCV to achieve the best model (MAE ~ $16k)
 * Deployed SVM model as a client-facing salary prediction tool on [this website](https://salary-estimator-shelley.herokuapp.com/) using Flask and Heroku 
 
+## References
+
+**Language:** Python 3.7  
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, wordcloud, nltk.corpus, nltk.tokenize, missingno, dython.nominal, sklearn, joblib, selenium, flask  
+**Project inspired by:** https://github.com/PlayingNumbers/ds_salary_proj
+**Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium  
+**Scraper Article:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905  
+**Flask Productionization:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 
 ## Web Scraping
 
-I adjusted the [web scraper](https://github.com/arapfaik/scraping-glassdoor-selenium) using Selenium to scrape the fulltime job postings from glassdoor.ca for 3 target positions -- "data scientist", "data analyst" and "statistician" for a one-month period(2020-05-09 to 2020-06-09) respectively. See code [here](https://github.com/ensembles4612/analysis_and_modeling_on_data_science_jobs_Canada/blob/master/glassdoor_scraping_tool.py). With each job, I obtained the following: Job title, Salary Estimate, Job Description, Rating, Company Name, Location, Company Headquarters, Company Size, Company Founded Date, Type of Ownership, Industry, Sector, Revenue, Competitors. Because other positions such as data engineer and machine learning engineer also showed up in the search results of the 3 target positions, the following positions appreared in the search results were also chosen to be included in the dataset for analysis and modeling: data engineer and machine learning engineer, research scientist, business intelligent analyst, manager analytics, actuarial analyst.
+I adjusted the [web scraper](https://github.com/arapfaik/scraping-glassdoor-selenium) using Selenium to scrape the fulltime job postings from glassdoor.ca for 3 target positions -- "data scientist", "data analyst" and "statistician" for a one-month period(2020-05-09 to 2020-06-09) respectively. See code [here](https://github.com/ensembles4612/analysis_and_modeling_on_data_science_jobs_Canada/blob/master/glassdoor_scraping_tool.py). 
+
+With each job, I obtained the following: Job title, Salary Estimate, Job Description, Rating, Company Name, Location, Company Headquarters, Company Size, Company Founded Date, Type of Ownership, Industry, Sector, Revenue, Competitors. Because other positions such as data engineer and machine learning engineer also showed up in the search results of the 3 target positions, the following positions appreared in the search results were also chosen to be included in the dataset for analysis and modeling: data engineer and machine learning engineer, research scientist, business intelligent analyst, manager analytics, actuarial analyst.
 
 
 ## Data Cleaning
@@ -122,10 +132,3 @@ I built a flask API endpoint using the SVM model and deployed it in Heroku as a 
 
 ![alt text](https://github.com/ensembles4612/analysis_and_modeling_on_data_science_jobs_Canada/blob/master/wordcloud_img/salary_estimator.png "salary_estimator")
 
-## Resources and references
-**Python Version:** 3.7  
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, wordcloud, nltk.corpus, nltk.tokenize, missingno, dython.nominal, sklearn, joblib, selenium, flask  
-**Project Inspiration Repo**: https://github.com/PlayingNumbers/ds_salary_proj
-**Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium  
-**Scraper Article:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905  
-**Flask Productionization:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
