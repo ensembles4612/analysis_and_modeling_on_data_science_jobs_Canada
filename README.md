@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
-1. [Project Highlights](##-project-highlights)
-2. [References](##-references)
-3. [Web Scraping](##-web-scraping)
-4. [Data Cleaning](##-data-cleaning)
-5. [Exploratory Data Analysis](##-eda)
-6. [Model Building](##-model-building)
-7. [Model Performance](##-model-performance)
-8. [Productionization](##-productionization)
+1. [Project Highlights](#project-highlights)
+2. [References](#references)
+3. [Web Scraping](#web-scraping)
+4. [Data Cleaning](#data-cleaning)
+5. [Exploratory Data Analysis](#eda)
+6. [Model Building](#model-building)
+7. [Model Performance](#model-performance)
+8. [Productionization](#productionization)
 
 ## Project Highlights
 
