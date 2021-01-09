@@ -1,5 +1,16 @@
 # Analysis on Data Science Jobs in Canada with Salary Prediction Flask API Deployed in Herokou
 
+## Table of Contents
+
+1. [Project Highlights](##-project-highlights)
+2. [References](##-references)
+3. [Web Scraping](##-web-scraping)
+4. [Data Cleaning](##-data-cleaning)
+5. [Exploratory Data Analysis](##-eda)
+6. [Model Building](##-model-building)
+7. [Model Performance](##-model-performance)
+8. [Productionization](##-productionization)
+
 ## Project Highlights
 
 * Scraped job listings for 3 target positions from Glassdoor for a one-month period using python and selenium
@@ -112,7 +123,7 @@ I tried 4 different models and evaluated them using Mean Absolute Error. They ar
 * **Support Vector Regressor** 
 
 
-## Model performance
+## Model Performance
 I fine-tuned the following 3 models using GridSearchCV to find the best parameters with 10-fold cross validation. The test errors are:
 *	**Lasso Regression** : MAE = 16784
 *	**Random Forest**: MAE = 17745
